@@ -27,7 +27,7 @@ The key checkpoints for this assignment are,
 - [ ] [Write a report](#writing-report)
 - [ ] [Submit your work](#submission--grading)
 
-All deliverables are due by **Tuesday, October 22nd**. This is a group assignment, see the assignment policies for this class.[^1]
+All deliverables are due by **Friday, March 14th**. This is a group assignment, see the assignment policies for this class.[^1]
 
 ## Task: Retrieval Augmented Generation (RAG)
 
@@ -155,7 +155,7 @@ All the code for your data preprocessing, model development and evaluation will 
 
 ## Generating results
 
-Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released the day before the assignment is due (**Monday, October 21st**).
+Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released the day before the assignment is due (**Thursday, March 13th**).
 
 ### Unseen test set
 
@@ -165,12 +165,16 @@ The json file should be in the following format:
 ```
 {
     "1": "Answer 1",
-    "2": "Answer 2",
+    "2": "Answer 2; Answer 3",
     ...
 }
 ```
 
 Please make sure you follow this format. Points will be deducted for misformatted outputs.
+
+### Release Policy for Late Days
+
+If you plan to take a late day, you MUST let the TAs know via a Piazza post how many late days you plan to take and the date you plan to submit. A day before that day, a different test set will be released to you. For every day your group takes to submit after the communicated date, you will be penalized 10% of the overall grade. This is done to ensure fairness between groups using late days.
 
 ### Evaluation metrics
 
@@ -226,7 +230,7 @@ The following points (max. 100 points) are derived from the results and your rep
 
 + **Submit data** (15 points): submit testing/training data of your creation.
 + **Submit code** (15 points): submit your code for preprocessing and model development in the form of a GitHub repo. We may not necessarily run your code, but we will look at it. So please ensure that it contains up-to-date code with a README file outlining the steps to run it. Your repo 
-+ **Results** (30 points): points based on your system's performance on our private test set. 10 points for non-trivial performance,[^5] plus up to 20 points based on level of performance relative to other submissions from the class.
++ **Results** (30 points): points based on your system's performance on our private test set. 20 points based on your performance using our metrics,[^5] plus up to 10 points based on level of performance relative to other submissions from the class.
 + **Report**: below points are awarded based on your report.
     + **Data creation** (10 points): clearly describe how you created your data. Please include the following details,
         - How did you compile your knowledge resource, and how did you decide which documents to include?
@@ -247,16 +251,11 @@ The following points (max. 100 points) are derived from the results and your rep
         - Perform an analysis that evaluates the effectiveness of retrieve-and-augment strategy vs closed-book use of your models.
         - Show examples of outputs from at least two of the systems you created. Ideally, these examples could be representative of the quantitative differences that you found above.
  
-What to say here?
-More specific rubric? Maybe we just include a link?
-
-
 ## Model and Data Policy
 
 To make the assignment accessible to everyone,
 
-+ You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may *not* use closed models like OpenAI models, but you *can* opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). 
-+ You are not allowed to use models that have been tuned for QA with context ?? not sure what to write here.. 
++ You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may *not* use closed models like OpenAI models, but you *can* opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). The model you use must be trained before August 2024. (some date)
 + You are only allowed to include publicly available data in your knowledge resource, test data and training data.
 + You are welcome to use any open-source library to assist your data annotation and model development. Make sure you check the license and provide due credit.
 
@@ -270,7 +269,7 @@ If you have any questions about whether a model or data is allowed, please ask o
 
 ## Acknowledgements
 
-This assignment was based on the [Spring 2024 version of this assignment](https://github.com/neubig/nlp-from-scratch-assignment-spring2024).
+This assignment was based on the Spring 2024 version of this assignment by Graham Neubig and TAs.
 
 ## References
 
