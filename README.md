@@ -255,7 +255,7 @@ The following points (max. 100 points) are derived from the results and your rep
 
 To make the assignment accessible to everyone,
 
-+ You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may *not* use closed models like OpenAI models, but you *can* opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). The model you use must be trained before August 2024. (some date)
++ You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may *not* use closed models like OpenAI models, but you *can* opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). The model you use must be released before August 2024.
 + You are only allowed to include publicly available data in your knowledge resource, test data and training data.
 + You are welcome to use any open-source library to assist your data annotation and model development. Make sure you check the license and provide due credit.
 
