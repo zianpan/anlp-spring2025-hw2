@@ -1,0 +1,71 @@
+Main Page Information:
+{'Festival Title': 'Pittsburgh Taco FestivalÂ®';
+'Date and Time': Saturday September 14th, 2024, 12:30pm-7:00pm;
+'Venue Address': '2875 Railroad St, Pittsburgh, PA 15222';
+Sponsors includes the following:
+- Cerveza Modelo Especial
+- Corona Extra Logo
+- Hornitos
+- Tres Generaciones
+- Hear Corp. Audio Video Lighting Production
+- Clockwise
+- Pittsburgh City Paper
+- Yelp
+- Table
+- Pittsburgh Print Shop Logo
+- Red Fish Bowl
+- The Oxford
+- Pittsburgh Hispanic Development Corporation
+- Casa San Jose
+- Brentwood Bank
+}
+
+About Page:
+About the 2024 Pittsburgh Taco Festival | September 14th, 2024 Home about vendors map FAQS buy tickets About us The Pittsburgh Taco Festival Â® is an annual food festival aimed at celebrating (and eating) TACOS, as well as supporting and raising funds and awareness for the cityâs Latin-American community. 
+History: The Original Pittsburgh Taco Festival Â® was founded in 2016 by Craig McCloud who sought to create an opportunity which benefitted food trucks/start-ups as well as support non-profits that serve the cityâs burgeoning Latin American population. The festival regularly attracts vendors from beyond the metro area, as well as visitors who plan weekend visits from New York, Ohio, Maryland, West Virginia, and beyond. Over the years, tens of thousands of people have joined us for what has become an annually anticipated cultural and community event. We hope youâll join us, too! 
+Partners: In addition to the many corporate and national sponsors that support our mission, we are most proud of our cultural partnerships. We work closely with Pittsburgh Hispanic Development Corporation (PHDC) and Casa San Jose, because we wish to honor the cultures responsible for what we consider the âgreatest hand-food known to man.â These organizations help us recruit vendors, organize entertainment, and provide authenticity to our taco-themed event. In turn they receive a generous percentage of the net proceeds. 
+2024 Pittsburgh Taco Festival Â® Venue address 2875 Railroad St, Pittsburgh, PA 15222 Stay Tuned on Social Media for official announcements PR@pghtacofest.com follow us Get Tickets Here Copyright Â© Pittsburgh Taco Festival 2024 | All Rights Reserved | PRIVACYÂ POLICY | Website by REFRESH
+
+Vendors:
+{- Las Palmas
+- La Palapa
+- El Sabor
+- Kona Ice
+- Rincon Oax
+- JuniperGrill
+- Cilantro & Ajo
+- Lets Taco Food Truck Pgh
+- Los Gallitos LLC
+- Mexican Sazon Lichita
+- Mi Empanada
+- Tocayo
+- Taqueria el pastorcito
+- Papusas Y Antojitos
+- BTOS Kitchen
+- El Colibri
+- Caustelot Creamery
+- Vaya food truck
+- La bellita vendor
+- Fios vendor
+- El Chaqueno vendor
+- Los Gringos vendor
+- Papelon vendor
+- El Chuco}
+
+Map Information:
+{'Map Download Link': 'https://cdn.prod.website-files.com/5ab82ce8e294a05a28472de2/66e1fc6ea77e204dd8aca782_Virtual%20Map%20PTF%202024.pdf'}
+
+FAQs:
+Question: ARE TICKETS REFUNDABLE/TRANSFERABLE? Answer: Refunds will not be issued on any tickets for any reason. Tickets can be transferred to another person other than the name listed on the ticket.
+Question: DOES MY GENERAL ADMISSION TICKET INCLUDE TACOS? Answer: The price of tickets goes toward covering the costs of producing an event of this scale;Â including tent, table, and other rentals; entertainment;Â facility fees; security; etc. Vendors keep all the revenues they generate during the festival.
+Question: Can I bring dogs/pets to the festival? Answer: We love dogs and pets as much as you do! However, since food is being bought/sold/consumed by many different people, we ask that you leave your four-footed loved ones at home.
+Question: HOW CAN I SIGN UP TO BE A VENDOR AT THE FESTIVAL? Answer: For information about becoming a vendor at the Festival, please contact our team at vendors@pghtacofest.com.
+Question: WILL TICKETS WILL BE AVAILABLE ON THE DAY OF THE EVENT? Answer: This event has sold out every year that it has been held. Tickets go on sale on June 1 at 12:00pm (In the event that any tickets do remain the day of the event, they will be sold at the box office only, on a strictly first-come-first-served basis, for $20 each).
+Question: DO YOU HAVE A LIST OF VENDORS? Answer: Yes. Please see theÂ Vendor List HERE. It will be updated as we continue to add great taco vendors, so please check back frequently.**If your favorite taqueria isn't listed, or yet confirmed, please ask them if they'll be participating in the Pittsburgh Taco FestivalÂ®Â next time you visit them!
+Question: WILL VENDORS BE ACCEPTING CREDIT CARD PAYMENTS? Answer: Vendors are responsible for their own menus and how they choose to accept payments. If a vendor is Cash Only, they will be required to have visible signage stating so.
+Question: IS THIS A FAMILY FRIENDLY EVENT? Answer: All ages are welcome at the taco festival. Children ages 5+ require a ticket. We will have games, free face painting, and activities for their enjoyment.
+Question: WILL THERE BE VEGETARIAN/VEGAN/GLUTEN-FREE OPTIONS AVAILABLE? Answer: Yes. Some of our vendors have strictly vegetarian/vegan menus. Many others have Vegetarian options on an otherwise traditional menu. Check the Vendor Page for details on the offerings from each vendor.
+Question: WHO CAN IÂ CONTACT FOR SPONSORSHIP/ADVERTISING OPPORTUNITIES? Answer: For information about sponsorship and advertising, please contactÂ our team at PR@pghtacofest.com.
+Question: WHO CAN I CONTACT ABOUTÂ MEDIA INQUIRIES? Answer: Please send an email to pr@pghtacofest.com. We will get back in touch with you promptly.
+Question: WILL PARKING BE AVAILABLE? Answer: There are ample options for both street and paid lot/garage parking throughout the Strip District.
+
