@@ -5,3 +5,7 @@ pandas
 webdriver-manager
 tqdm
 lxml
+torch 
+torchvision
+torchaudio
+huggingface-hub

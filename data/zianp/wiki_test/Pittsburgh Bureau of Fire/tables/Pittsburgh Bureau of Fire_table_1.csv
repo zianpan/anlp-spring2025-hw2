@@ -1,0 +1,31 @@
+Fire Station Number,Neighborhood,Engine Company,Truck Company,Special Unit [a],Deputy Chief or Battalion Chief Unit,Battalion
+3,Strip District,Engine 3,,"M.A.C. 1, M.A.C. 2",,2
+4,Uptown,Engine 4,Truck 4,Command Unit 200,Deputy Chief,2
+6,Lawrenceville,Engine 6,Truck 6,"Water Rescue Raft, Foam Trailer",,3
+7,Stanton Heights,Engine 7,,"Arson Unit 1, Arson Unit 2, Arson Unit 3",,3
+8,East Liberty,Engine 8,Truck 8,,Battalion Chief 3,3
+10,Hill District,Engine 10,,PEMS Medic 5,,2
+12,Greenfield,Engine 12,,PEMS Medic 7,,2
+13,Hazelwood,Engine 13,Truck 13,,,2
+14,Oakland,,Truck 14,,Battalion Chief 2,2
+15,Lincoln-Lemington,Engine 15,,Foam Unit 15,,3
+16,Wilkinsburg,Engine 16,,,,3
+17,Homewood,Engine 17,Truck 17,Water Rescue Raft,,3
+18,Squirrel Hill,Engine 18,,"PBP Zone 4, Foam Unit 18",,2
+19,Swisshelm Park,Engine 19,,,,3
+20,Hays,Engine 20,,PEMS Medic 12,,4
+22,Arlington,Engine 22,,,,4
+23,Carrick,Engine 23,,Foam 1,,4
+24,South Side,Engine 24,Truck 24,"Water Rescue Raft, Utility 4",Battalion Chief 4,4
+26,Brookline,Engine 26,Truck 26,,,4
+27,Mt. Washington,Engine 27,,,,4
+28,Beechview,Engine 28,,,,4
+29,Westwood,Engine 29,,,,4
+30,Elliott,Engine 30,Truck 30,,,1
+31,Sheraden,Engine 31,,,,1
+32,Deutschtown,Engine 32,Truck 32,Haz-Mat 3,,1
+33,Woods Run,,Truck 33,,,1
+34,Observatory Hill,Engine 34,,,,1
+35,Brighton Heights,Engine 35,,,,1
+37,Manchester,Engine 37,,Haz-Mat 1,Battalion Chief 1,1
+38,Northview Heights,Engine 38,,,,1
