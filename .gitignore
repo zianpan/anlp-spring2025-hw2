@@ -7,3 +7,4 @@ credentials.txt
 data/texts.csv
 data/texts_urls.csv
 data/texts_urls_filtered.csv
+*.html
