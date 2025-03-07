@@ -1,0 +1,67 @@
+Farnam Jahanian (Persian: فرنام جهانیان) is an Iranian-American computer scientist, entrepreneur, and academic. He serves as the 10th president of Carnegie Mellon University.
+
+Farnam Jahanian was born in Tehran, Iran, in 1961. He emigrated to the United States in 1977 at the age of 16 and completed high school in San Antonio, Texas.
+
+Jahanian received a Bachelor of Science degree in computer science from the University of Texas at San Antonio in 1982. He earned a master's degree in 1987 and a PhD in computer science in 1989 from the University of Texas at Austin. After receiving his PhD, Jahanian began his career at IBM’s Thomas J. Watson Research Center, where he was a research staff member from 1989 to 1993.
+
+University of Michigan  
+
+In 1993, Jahanian joined the faculty at the University of Michigan in Ann Arbor. He held the Edward S. Davidson Collegiate Professorship in the College of Engineering and served as chair for Computer Science and Engineering from 2007 to 2011 and as the director of the Software Systems Laboratory from 1997 to 2000.
+
+His research areas have included distributed computing, network security and network protocols and architectures, and has been sponsored by the NSF, DHS, DARPA, NSA, ONR as well as companies like Cisco, Intel, Google, Boeing, VeriSign, Hitachi, Hewlett-Packard and IBM. One of Jahanian’s most cited papers is "Safety analysis of timing properties in real-time systems."
+
+While at the University of Michigan, Jahanian led several large-scale research projects that studied the growth and scalability of the Internet infrastructure, which ultimately transformed how cyber threats are addressed by Internet Service Providers. In the late 1990s, his research team, including former students, Craig Labovitz and G. Robert Malan, demonstrated fundamental limitations in the core routing architecture of the Internet by uncovering the fragility of the underlying routing infrastructure. The group’s seminal work on Internet routing stability and convergence served as a catalyst for significant changes in commercial Internet routing software implementation and impacted routing policies employed by Internet Service Providers worldwide. The centerpiece of this work was recognized with an ACM SIGCOMM Test of Time Award in 2008.
+
+Anticipating the emergence of increasingly complex, widely distributed cyber-attacks on IP-based networks, long before terms such as “distributed denial of service” and “zero-day worms” entered the mainstream, Jahanian’s research team led an effort to develop new techniques that combine network topology information and traffic flow statistics to detect, backtrack and filter DDoS attacks.
+
+Arbor Networks
+
+Jahanian’s contributions to Internet stability and security led to the successful commercialization of his research through Arbor Networks, which Jahanian co-founded with former UM graduate student G. Robert Malan in 2000.
+
+Over a 10-year period, Jahanian led the research, co-founded the company, launched its flagship products, and upon his return to the University of Michigan, served as Chief Scientist and Chairman of Arbor Networks until its acquisition in 2010. Early contributors to Arbor Networks’ launch and growth include Craig Labovitz, Dug Song, Ted Julian, Paul Morville, Jon Arnold, Matt Smart, and Scott Iekel-Johnson.
+
+At Arbor Networks, Jahanian and his team developed highly scalable, service provider-class solutions for protecting networks against distributed denial of service attacks, zero-day network threats and routing exploits. These Internet security solutions have been widely implemented by hundreds of Internet Service Providers, wireless carriers, cloud service providers and numerous mission-critical networks around the globe.
+
+National Science Foundation
+
+Jahanian led the National Science Foundation Directorate for Computer and Information Science and Engineering from 2011 to 2014. With the budget of over $900 million, he was responsible for directing programs and initiatives that support advances in research and cyber infrastructure, foster broad interdisciplinary collaborations, and contribute to the development of a computing and information technology workforce with skills essential to success in the increasingly competitive global market.
+
+The CISE Directorate developed and led several presidential initiatives under his leadership, including the National Robotics Initiative (NRI), the National Big Data Research and Development Initiative (BIGDATA), and Cyberlearning and Future Learning Technologies. Jahanian also played a major role in the launch of public-private partnership programs such as US Ignite and the I-Corps as well as several cross-disciplinary research and education programs, including Secure and Trustworthy Cyberspace (SaTC), Smart and Connected Health (SCH), Algorithms in the Field, and Exploiting Parallelism and Scalability (XPS).
+
+He also served as co-chair of the Networking and Information Technology Research and Development (NITRD) Subcommittee of the National Science and Technology Council Committee on Technology, providing coordination and oversight of R&D activities of 17 government agencies.
+
+Carnegie Mellon University
+
+Jahanian joined Carnegie Mellon University as vice president for research in 2014 and later served as provost and chief academic officer from 2015 to 2017.  Since July 1, 2017, he has served as its president, succeeding Subra Suresh, first as interim president and later, since March 8, 2018, as president.
+
+Under his tenure at CMU, CMU has launched several interdisciplinary research centers, including the Risk and Regulatory Services Innovation Center Sponsored by PwC, the Block Center for Technology and Society, and the Center for Shared Prosperity. He also oversaw several cross-cutting educational innovations, such as a cross-cutting Neuroscience Institute, a behavioral economics programs, and the world’s first undergraduate major in artificial intelligence.
+
+He oversaw CMU's launch of the Advanced Robotics Manufacturing Institute, an independent entity supported by more than $250 million in public and private funding, located in the Hazelwood Green development, as well as the launch of the Army AI Task Force headquartered at CMU. He continues to be a vocal proponent of Pittsburgh's thriving tech scene.
+
+During his tenure, the university has undergone the largest expansion of campus infrastructure in its history, including significant renovation of education and learning spaces, a re-envisioning of the residential experience, and a new, state-of-the-art maker ecosystem. The university is also investing in infrastructure in support of research and creativity, including the creation of ANSYS Hall, TCS Hall, a Hall of Arts at Posner Hall, and a new Scaife Hall.
+
+Projects and initiatives that enhance the CMU experience have been the hallmark of Jahanian's leadership. He chaired the campus-wide Task Force on the CMU Experience, and also launched several projects and initiatives to advance student success, campus climate, and diversity, equity and inclusion.
+
+He also has enhanced the competitiveness of CMU's research enterprise, diversifying sources of funding and growing stronger relationships with foundation and industry partners. In May 2021, the university announced that CMU and the Richard King Mellon Foundation were entering the next phase of their partnership with a $150 million gift for CMU’s science and technology programs. The gift will help the university build a cutting-edge science building at the center of its Pittsburgh campus, establish a new Robotics Innovation Center at Hazelwood Green and expand the work of the Manufacturing Futures Initiative.
+
+In October 2018, the university announced the launch of Make Possible: The Campaign for Carnegie Mellon University, the most ambitious fundraising campaign in the university’s history with a goal to raise $2B by 2024.
+
+Jahanian has spoken frequently on the topic of higher education’s transformation in the digital age, especially the need to embrace more personalized, interdisciplinary and technology-enhanced approaches.
+
+He is also an active advocate for how research can be uniquely central to an innovation ecosystem that drives global competitiveness and addresses national priorities.
+
+On April 15, 2021, Jahanian testified before the House Science, Space and Technology Committee. The virtual hearing, titled “Reimagining Our Innovation Future,” focused on increasing federal support for research. During his testimony, he spoke on a number of topics, ranging from increasing research funding to investing in domestic and international talent, to elevating the role of universities in expanding the footprint of innovation. He followed his testimony with an op-ed in The Hill.
+
+Jahanian has served on dozens of national advisory boards and panels. He served as chair of the National Research Council’s Computer Science and Telecommunications Board (CSTB) from 2015 to 2021, sits on the executive committee of the U.S. Council on Competitiveness, and is a trustee of the Dietrich Foundation. He has also been a board member of Highmark Health, the Computing Research Association (CRA), the National Center for Women and Information Technology (NCWIT), and the Allegheny Conference on Community Development, among others. He is also active with the World Economic Forum, serving as vice chair of the Global University Leaders Forum (GULF) and as a member of the Global Network Advisory Board for WEF’s Centre for the Fourth Industrial Revolution (C4IR). He also serves on C4IR’s Internet of Things Council.  
+
+He has also received numerous awards for teaching, research and entrepreneurship, including a National Science Foundation CAREER Award (1995), University of Michigan College of Engineering Teaching Excellence Award (1998), DARPA Innovation Award (2000), the State of Michigan Governor’s University Award for Commercialization Excellence (2005) and the ACM SIGCOMM Test of Time Award (2008 and 2021).
+
+He is a fellow of the Association for Computing Machinery, the Institute of Electrical and Electronics Engineers and the American Association for the Advancement of Science.
+
+In 2015, Jahanian received the Computing Research Association’s Distinguished Service Award and in 2016, he was honored in Carnegie Corporation of New York’s “Great Immigrants — The Pride of America” campaign.
+
+He currently serves as a member of the President's Export Council.
+
+Jahanian is married to Teresa (known as "Tris"), and the father of three children with her. On September 26, 2021, one of his sons, Thomas Jahanian, drowned in the Monongahela River.
+
+

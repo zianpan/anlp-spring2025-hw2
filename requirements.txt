@@ -9,3 +9,4 @@ torch
 torchvision
 torchaudio
 huggingface-hub
+sentence-transformers

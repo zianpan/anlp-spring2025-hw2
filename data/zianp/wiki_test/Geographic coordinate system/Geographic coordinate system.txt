@@ -1,0 +1,175 @@
+This is an accepted version of this page
+A geographic coordinate system (GCS) is a spherical or geodetic coordinate system for measuring and communicating positions directly on Earth as latitude and longitude. It is the simplest, oldest and most widely used type of the various spatial reference systems that are in use, and forms the basis for most others. Although latitude and longitude form a coordinate tuple like a cartesian coordinate system, the geographic coordinate system is not cartesian because the measurements are angles and are not on a planar surface.
+
+A full GCS specification, such as those listed in the EPSG and ISO 19111 standards, also includes a choice of geodetic datum (including an Earth ellipsoid), as different datums will yield different latitude and longitude values for the same location.
+
+The invention of a geographic coordinate system is generally credited to Eratosthenes of Cyrene, who composed his now-lost Geography at the Library of Alexandria in the 3rd century BC. A century later, Hipparchus of Nicaea improved on this system by determining latitude from stellar measurements rather than solar altitude and determining longitude by timings of lunar eclipses, rather than dead reckoning. In the 1st or 2nd century, Marinus of Tyre compiled an extensive gazetteer and mathematically plotted world map using coordinates measured east from a prime meridian at the westernmost known land, designated the Fortunate Isles, off the coast of western Africa around the Canary or Cape Verde Islands, and measured north or south of the island of Rhodes off Asia Minor. Ptolemy credited him with the full adoption of longitude and latitude, rather than measuring latitude in terms of the length of the midsummer day.
+
+Ptolemy's 2nd-century Geography used the same prime meridian but measured latitude from the Equator instead. After their work was translated into Arabic in the 9th century, Al-Khwārizmī's Book of the Description of the Earth corrected Marinus' and Ptolemy's errors regarding the length of the Mediterranean Sea,[note 1] causing medieval Arabic cartography to use a prime meridian around 10° east of Ptolemy's line. Mathematical cartography resumed in Europe following Maximus Planudes' recovery of Ptolemy's text a little before 1300; the text was translated into Latin at Florence by Jacopo d'Angelo around 1407.
+
+In 1884, the United States hosted the International Meridian Conference, attended by representatives from twenty-five nations. Twenty-two of them agreed to adopt the longitude of the Royal Observatory in Greenwich, England as the zero-reference line. The Dominican Republic voted against the motion, while France and Brazil abstained. France adopted Greenwich Mean Time in place of local determinations by the Paris Observatory in 1911.
+
+The latitude φ of a point on Earth's surface is the angle between the equatorial plane and the straight line that passes through that point and through (or close to) the center of the Earth.[note 2] Lines joining points of the same latitude trace circles on the surface of Earth called parallels, as they are parallel to the Equator and to each other. The North Pole is 90° N; the South Pole is 90° S. The 0° parallel of latitude is designated the Equator, the fundamental plane of all geographic coordinate systems. The Equator divides the globe into Northern and Southern Hemispheres.
+
+The longitude λ of a point on Earth's surface is the angle east or west of a reference meridian to another meridian that passes through that point. All meridians are halves of great ellipses (often called great circles), which converge at the North and South Poles. The meridian of the British Royal Observatory in Greenwich, in southeast London, England, is the international prime meridian, although some organizations—such as the French Institut national de l'information géographique et forestière—continue to use other meridians for internal purposes. The prime meridian determines the proper Eastern and Western Hemispheres, although maps often divide these hemispheres further west in order to keep the Old World on a single side. The antipodal meridian of Greenwich is both 180°W and 180°E. This is not to be conflated with the International Date Line, which diverges from it in several places for political and convenience reasons, including between far eastern Russia and the far western Aleutian Islands.
+
+The combination of these two components specifies the position of any location on the surface of Earth, without consideration of altitude or depth. The visual grid on a map formed by lines of latitude and longitude is known as a graticule. The origin/zero point of this system is located in the Gulf of Guinea about 625 km (390 mi) south of Tema, Ghana, a location often facetiously called Null Island.
+
+In order to use the theoretical definitions of latitude, longitude, and height to precisely measure actual locations on the physical earth, a geodetic datum must be used. A horizonal datum is used to precisely measure latitude and longitude, while a vertical datum is used to measure elevation or altitude. Both types of datum bind a mathematical model of the shape of the earth (usually a reference ellipsoid for a horizontal datum, and a more precise geoid for a vertical datum) to the earth. Traditionally, this binding was created by a network of control points, surveyed locations at which monuments are installed, and were only accurate for a region of the surface of the Earth. Newer datums are based on a global network for satellite measurements (GNSS, VLBI, SLR and DORIS).
+
+This combination of mathematical model and physical binding mean that anyone using the same datum will obtain the same location measurement for the same physical location. However, two different datums will usually yield different location measurements for the same physical location, which may appear to differ by as much as several hundred meters; this not because the location has moved, but because the reference system used to measure it has shifted. Because any spatial reference system or map projection is ultimately calculated from latitude and longitude, it is crucial that they clearly state the datum on which they are based. For example, a UTM coordinate based on a WGS84 realisation will be different than a UTM coordinate based on NAD27 for the same location. Converting coordinates from one datum to another requires a datum transformation such as a Helmert transformation, although in certain situations a simple translation may be sufficient.
+
+Datums may be global, meaning that they represent the whole Earth, or they may be regional, meaning that they represent an ellipsoid best-fit to only a portion of the Earth. Examples of global datums include the several realizations of WGS 84 (with the 2D datum ensemble EPSG:4326 with 2 meter accuracy as identifier) used for the Global Positioning System,[note 3] and the several realizations of the International Terrestrial Reference System and Frame (such as ITRF2020 with subcentimeter accuracy), which takes into account continental drift and crustal deformation.
+
+Datums with a regional fit of the ellipsoid that are chosen by a national cartographical organization include the North American Datums, the European ED50, and the British OSGB36. Given a location, the datum provides the latitude 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ and longitude 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+. In the United Kingdom there are three common latitude, longitude, and height systems in use. WGS 84 differs at Greenwich from the one used on published maps OSGB36 by approximately 112 m. ED50 differs from about 120 m to 180 m.
+
+Points on the Earth's surface move relative to each other due to continental plate motion, subsidence, and diurnal Earth tidal movement caused by the Moon and the Sun. This daily movement can be as much as a meter. Continental movement can be up to 10 cm a year, or 10 m in a century. A weather system high-pressure area can cause a sinking of 5 mm. Scandinavia is rising by 1 cm a year as a result of the melting of the ice sheets of the last ice age, but neighboring Scotland is rising by only 0.2 cm. These changes are insignificant if a regional datum is used, but are statistically significant if a global datum is used.
+
+On the GRS 80 or WGS 84 spheroid at sea level at the Equator, one latitudinal second measures 30.715 m, one latitudinal minute is 1843 m and one latitudinal degree is 110.6 km. The circles of longitude, meridians, meet at the geographical poles, with the west–east width of a second naturally decreasing as latitude increases. On the Equator at sea level, one longitudinal second measures 30.92 m, a longitudinal minute is 1855 m and a longitudinal degree is 111.3 km. At 30° a longitudinal second is 26.76 m, at Greenwich (51°28′38″N) 19.22 m, and at 60° it is 15.42 m.
+
+On the WGS 84 spheroid, the length in meters of a degree of latitude at latitude ϕ (that is, the number of meters you would have to travel along a north–south line to move 1 degree in latitude, when at latitude ϕ), is about
+
+The returned measure of meters per degree latitude varies continuously with latitude.
+
+Similarly, the length in meters of a degree of longitude can be calculated as
+
+(Those coefficients can be improved, but as they stand the distance they give is correct within a centimeter.)
+
+The formulae both return units of meters per degree.
+
+An alternative method to estimate the length of a longitudinal degree at latitude 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is to assume a spherical Earth (to get the width per minute and second, divide by 60 and 3600, respectively):
+
+where Earth's average meridional radius 
+
+
+
+
+
+
+M
+
+r
+
+
+
+
+
+
+
+
+{\displaystyle \textstyle {M_{r}}\,\!}
+
+ is 6,367,449 m. Since the Earth is an oblate spheroid, not spherical, that result can be off by several tenths of a percent; a better approximation of a longitudinal degree at latitude 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is
+
+where Earth's equatorial radius 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ equals 6,378,137 m and 
+
+
+
+
+
+tan
+⁡
+β
+=
+
+
+b
+a
+
+
+tan
+⁡
+ϕ
+
+
+
+
+
+
+{\displaystyle \textstyle {\tan \beta ={\frac {b}{a}}\tan \phi }\,\!}
+
+; for the GRS 80 and WGS 84 spheroids, 
+
+
+
+
+
+
+b
+a
+
+
+
+=
+0.99664719
+
+
+{\textstyle {\tfrac {b}{a}}=0.99664719}
+
+. (
+
+
+
+
+
+β
+
+
+
+
+
+
+{\displaystyle \textstyle {\beta }\,\!}
+
+ is known as the reduced (or parametric) latitude). Aside from rounding, this is the exact distance along a parallel of latitude; getting the distance along the shortest route will be more work, but those two distances are always within 0.6 m of each other if the two points are one degree of longitude apart.
+
+Like any series of multiple-digit numbers, latitude-longitude pairs can be challenging to communicate and remember. Therefore, alternative schemes have been developed for encoding GCS coordinates into alphanumeric strings or words:
+
+These are not distinct coordinate systems, only alternative methods for expressing latitude and longitude measurements.
+
+

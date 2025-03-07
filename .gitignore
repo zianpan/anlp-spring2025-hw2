@@ -1,3 +1,9 @@
 .DS_Store
 data/.DS_Store
 scripts/__pycache__/
+rag_engine/chroma_db/
+credentials.txt
+.vscode/
+data/texts.csv
+data/texts_urls.csv
+data/texts_urls_filtered.csv

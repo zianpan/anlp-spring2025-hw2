@@ -1,0 +1,9 @@
+The ACM A. M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) for contributions of lasting and major technical importance to computer science. It is generally recognized as the highest distinction in  the field of computer science and is often referred to as the "Nobel Prize of Computing".
+
+The award is named after Alan Turing, who was a British mathematician and reader in mathematics at the University of Manchester. Turing is often credited as being the founder of theoretical computer science and artificial intelligence, and a key contributor to the Allied cryptanalysis of the Enigma cipher during World War II. From 2007 to 2013, the award was accompanied by a prize of US$250,000, with financial support provided by Intel and Google. Since 2014, the award has been accompanied by a prize of US$1 million, with financial support provided by Google.
+
+The first recipient, in 1966, was Alan Perlis. The youngest recipient was Donald Knuth who won in 1974, at the age of 36, while the oldest recipient was Alfred Aho who won in 2020, at the age of 79. Only three women have been awarded the prize: Frances Allen (in 2006), Barbara Liskov (in 2008), and Shafi Goldwasser (in 2012). As of 2025[update], 79 people have been awarded the prize, with the most recent recipients, in 2024, being Andrew Barto and Richard S. Sutton.
+
+In addition, he formulated and strongly advanced full abstraction, the study of the relationship between operational and denotational semantics."
+
+

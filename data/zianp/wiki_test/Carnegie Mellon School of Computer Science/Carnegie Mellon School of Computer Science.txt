@@ -1,0 +1,30 @@
+The School of Computer Science (SCS) at Carnegie Mellon University in Pittsburgh, Pennsylvania, US is a school for computer science established in 1988.  It has been consistently ranked among the best computer science programs over the decades. As of 2024 U.S. News & World Report ranks the graduate program as tied for No. 1 with Massachusetts Institute of Technology, Stanford University and University of California, Berkeley.
+
+Researchers from Carnegie Mellon School of Computer Science have made fundamental contributions to the fields of algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human–computer interaction and software engineering.
+
+In July 1965, Allen Newell, Herbert A. Simon, and Alan J. Perlis, in conjunction with the faculty from the Graduate School of Industrial Administration (GSIA, renamed Tepper School of Business in 2004), staff from the newly formed Computation Center, and key administrators created the Computer Science Department, one of the first such departments in the nation. Their mission statement was "to cultivate a course of study leading to the PhD degree in computer science, a program that would exploit the new technology and assist in establishing a discipline of computer science." The educational program, formally accepted in October 1965, drew its first graduate students from several existing academic disciplines: mathematics, electrical engineering, psychology, and the interdisciplinary Systems and Communications Sciences program in the Graduate School of Industrial Administration. The department was housed within the Mellon College of Science.
+
+With support from Newell, Simon, Nico Haberman, Provost Angel Jordan and President Richard Cyert, the computer science department began a two-year status as a "floating" department in the early months of 1986.  Then, the Department began to grow, both academically and financially. In 1988, the School of Computer Science was established, among the first such schools in the country. The Computer Science Department was the original department within the school.
+
+During the 1970s the Computer Science Department offered only a PhD study program, with no master's degree as an intermediate step.  The PhD program required a minimum of six years of residency.  It was called the "do or die" program among the graduate students, because a student could not drop a PhD and receive a master's degree.  It had quickly focused on computer networking, operating systems (Hydra, Accent, Mach), and robotics.
+
+The Gates Center for Computer Science and the Hillman Center for Future-Generation Technologies are home to much of the School of Computer Science. The $98 million complex was opened in 2009.
+It has 217,000-square-foot (20,200 m2) of floor space, including about 310 offices, 11 conference rooms, 32 labs, 8,000 square feet (740 m2) of project space and the Planetary Robotics Center. It also houses 12 classrooms, including a 250-seat auditorium.
+
+Additionally, the Gates Center connects to the Purnell Center, which houses the School of Drama, via the Randy Pausch Memorial Footbridge. The bridge represents Professor Pausch's own devotion to linking computer science and entertainment, as he was a co-founder of Carnegie Mellon's Entertainment Technology Center.
+
+Mack Scogin Merril Elam Architects of Atlanta, Georgia were the lead architects. The Gates and Hillman Centers have received LEED Gold Certification.
+
+SCS research professor Scott Fahlman is credited with the invention of the smiley face emoticon. He suggested the emoticon on an electronic board in 1982 as a way for board readers to know when an author was joking. The text of Fahlman's original post was lost for nearly 20 years but was later recovered from backup tapes:
+
+Tartan Racing is a collaboration between Carnegie Mellon and General Motors Corporation that competes in the DARPA Grand Challenge. The Grand Challenge is a competition for driverless cars sponsored by Defense Advanced Research Projects Agency (DARPA). Tartan Racing is led by Carnegie Mellon roboticist William L. "Red" Whittaker.
+
+In 2007, Tartan Racing won the DARPA Urban Challenge, in which 11 autonomous ground vehicles raced over urban roadways. In the challenge, team vehicles were required to obey all California driving laws, share the road with other drivers and robotic cars, and complete the course in under six hours. Tartan Racing won the $2 million cash prize with Boss, a reworked 2007 Chevy Tahoe. Averaging about 14 miles (23 km) an hour for a 55-mile (89 km) trip, Boss beat the second-place team, Stanford Racing, by just under 20 minutes.
+
+The School established a number of honors and awards.
+
+Faculty members from the School of Computer Science have received international recognition for achievements within their fields. These honors include memberships and fellowships in the National Academy of Sciences, the National Academy of Engineering, the American Association for the Advancement of Science, the Association for Computing Machinery, the Institute for Electrical and Electronic Engineers, the Alfred P. Sloan Foundation, the MacArthur Fellowship Program, and the Guggenheim Fellowship Program. Notably, thirteen SCS faculty and alumni have won the A. M. Turing Award, the Association for Computing Machinery's most prestigious award, often called the "Nobel Prize of computing." These include Raj Reddy, Manuel Blum and Edmund M. Clarke of the recent active faculty, in addition to Emeritus Faculty Dana Scott and former faculty Geoffrey Hinton.
+
+40°26′37″N 79°56′40″W﻿ / ﻿40.44371°N 79.94443°W﻿ / 40.44371; -79.94443
+
+

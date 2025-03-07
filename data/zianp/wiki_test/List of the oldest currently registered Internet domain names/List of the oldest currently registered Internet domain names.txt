@@ -1,0 +1,7 @@
+This is a list of the oldest extant registered generic top-level domains used in the Domain Name System of the Internet.
+
+Until late February 1986, Domain Registration was limited to organizations with access to ARPA. Public registration was revealed on Usenet on February 24, 1986.
+
+Registration within .edu is restricted to accredited educational institutions. Prior to October 2001, registration was available worldwide; it has since been limited to institutions based in the United States.
+
+

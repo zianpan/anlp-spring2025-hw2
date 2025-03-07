@@ -1,0 +1,25 @@
+The Robotics Institute (RI) is a division of the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, United States.  A June 2014 article in Robotics Business Review magazine calls it "the world's best robotics research facility" and a "pacesetter in robotics research and education."
+
+The Robotics Institute focuses on bringing robotics into everyday activities. Its faculty members and graduate students examine a variety of fields, including space robotics, medical robotics, industrial systems, computer vision and artificial intelligence, and they develop a broad array of robotics systems and capabilities.
+
+Established in 1979 by Raj Reddy, the RI was the first robotics department at any U.S. university.  In 1988, CMU became the first university in the world offering a Ph.D. in Robotics.
+
+In 2012, the faculty, staff, students and postdocs numbered over 500, and the RI annual budget exceeded $65M, making the RI one of the largest robotics research organizations in the world.
+
+The RI occupies facilities on the Carnegie Mellon main campus as well as in the Lawrenceville and Hazelwood neighborhoods of Pittsburgh, totaling almost 200,000 sq. ft of indoor space and 40 acres of outdoor test facilities.
+
+The National Robotics Engineering Center (NREC) was established in 1996 as the commercial arm of the RI, with the intention of applying robotic technology to commercial and defense applications. It has partnered with more than 300 companies such as General Motors, GE Ventures, Google and Apple, as well as with the U.S. military.
+
+In September 2015, the NREC secured a $5.5 million gift from the car transport company, Uber, to support three robotics fellowships and research directed at developing safe, self-driving cars. This donation was made roughly seven months after Uber poached 40 NREC scientists, including its director, Tony Stenz, and other key program leaders, while the two organizations closely collaborated on driverless technologies.
+
+The Field Robotics Center (FRC) has developed a number of significant robots, including Sandstorm and H1ghlander, which finished second and third in the 2005 DARPA Grand Challenge, and Boss, which won the 2007 DARPA Grand Challenge.
+
+In his book Almost Human: Making Robots Think, Lee Gutkind describes the development of robots at the Robotics Institute, particularly focusing on the developers and describing field testing in remote locations.
+
+The robot HERB was featured in the "Oreo Separator" video series.
+
+RI robots and researchers have been featured in the Scientific American Frontiers episode "Natural Born Robots" and in multiple NPR radio segments.
+
+The Advanced Robotic Laser Coating Removal System (ARLCRS) won a 2013 Edison Award gold award in the category of materials science processes.
+
+
