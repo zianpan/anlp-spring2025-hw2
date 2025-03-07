@@ -1,8 +1,12 @@
+
 lsblk
 
-sudo fdisk -l /dev/nvme2n1
-sudo mkfs -t ext4 /dev/nvme2n1
+sudo fdisk -l /dev/nvme1n1
+sudo mkfs -t ext4 /dev/nvme1n1
 sudo mkdir -p /mnt/new_volume
-sudo mount /dev/nvme2n1 /mnt/new_volume
+
 df -h
+# identify the disk
+lsblk
 sudo chmod -R 777 /mnt/new_volume
+sudo mount /dev/nvme1n1 /mnt/new_volume
