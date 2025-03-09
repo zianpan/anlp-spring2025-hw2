@@ -1,0 +1,6 @@
+# RAG System Evaluation Summary
+
+## Reference: reference
+
+{'Exact Match': 44.44, 'F1 Score': 52.78, 'Recall': 52.78, 'Missing': 1, 'Empty Refs': 0, 'Not Meaningful': 5} system_output_1.json
+
