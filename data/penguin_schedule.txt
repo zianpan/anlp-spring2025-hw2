@@ -1,0 +1,13 @@
+team: Islanders@Penguins  date: Tuesday, March 18  time: 7:00 PM EDT  networks: SN-PIT, MSGSN  location: PPG Paints Arena, Pittsburgh  coach: Patrick Roy  pit_coach: Mike Sullivan
+team: Blue Jackets@Penguins  date: Friday, March 21  time: 7:00 PM EDT  networks: SN-PIT, FDSNOH  location: PPG Paints Arena, Pittsburgh  coach: Dean Evason  pit_coach: Mike Sullivan
+team: Penguins@Panthers  date: Sunday, March 23  time: 6:00 PM EDT  networks: SN-PIT, SCRIPPS  location: Amerant Bank Arena, Sunrise  coach: Paul Maurice  pit_coach: Mike Sullivan    
+team: Penguins@Lightning  date: Tuesday, March 25  time: 7:00 PM EDT  networks: SN-PIT, FDSNSUN  location: Amalie Arena, Tampa  coach: Jon Cooper  pit_coach: Mike Sullivan
+team: Penguins@Sabres  date: Thursday, March 27  time: 7:00 PM EDT  networks: SN-PIT, MSG-B  location: KeyBank Center, Buffalo  coach: Lindy Ruff  pit_coach: Mike Sullivan
+team: Senators@Penguins  date: Sunday, March 30  time: 5:00 PM EDT  networks: SN-PIT  location: PPG Paints Arena, Pittsburgh  coach: Travis Green  pit_coach: Mike Sullivan
+team: Penguins@Blues  date: Thursday, April 3  time: 8:00 PM EDT  networks: SN-PIT, FDSNMW  location: Enterprise Center, St. Louis  coach: Jim Montgomery  pit_coach: Mike Sullivan
+team: Penguins@Stars  date: Saturday, April 5  time: 3:00 PM EDT  networks: Gamecenter  location: American Airlines Center, Dallas  coach: Pete DeBoer  pit_coach: Mike Sullivan
+team: Penguins@Blackhawks  date: Sunday, April 6  time: 6:00 PM EDT  networks: SN-PIT, CHSN  location: United Center, Chicago  coach: Anders Sorensen  pit_coach: Mike Sullivan
+team: Blackhawks@Penguins  date: Tuesday, April 8  time: 7:00 PM EDT  networks: SN-PIT, CHSN  location: PPG Paints Arena, Pittsburgh  coach: Anders Sorensen  pit_coach: Mike Sullivan
+team: Penguins@Devils  date: Friday, April 11  time: 7:00 PM EDT  networks: SN-PIT, MSGSN  location: Prudential Center, Newark  coach: Sheldon Keefe  pit_coach: Mike Sullivan
+team: Bruins@Penguins  date: Sunday, April 13  time: 3:30 PM EDT  networks: SN-PIT  location: PPG Paints Arena, Pittsburgh  coach: Joe Sacco  pit_coach: Mike Sullivan
+team: Capitals@Penguins  date: Thursday, April 17  time: 7:00 PM EDT  networks: MNMT  location: PPG Paints Arena, Pittsburgh  coach: Spencer Carbery  pit_coach: Mike Sullivan
