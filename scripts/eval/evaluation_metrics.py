@@ -276,6 +276,9 @@ def main():
                 pred_path = os.path.join(args.predictions_dir, pred_file)
                 try:
                     predictions = load_system_predictions(pred_path)
+                    if len(predictions) != len(references):
+                        print(f"  Skipping {pred_file} - different lengths: {len(predictions)} vs {len(references)}")
+                        continue
                     if not predictions:
                         print(f"  Skipping empty prediction file: {pred_file}")
                         continue

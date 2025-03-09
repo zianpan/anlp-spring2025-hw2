@@ -1,0 +1,10 @@
+{
+  "test_qa_pairs_new_100_2_answers.json": {
+    "Exact Match": 35.86206896551724,
+    "F1 Score": 48.8365362494542,
+    "Recall": 49.06960394563151,
+    "Missing Answers": 0,
+    "Empty References": 0,
+    "Not Meaningful": 211
+  }
+}
