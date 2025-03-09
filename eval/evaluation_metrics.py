@@ -141,14 +141,21 @@ def compute_recall_f1_single(gold_answer_list, generated_answer):
 def compute_recall_f1(gold_answers, generated_answers):
     total_f1 = 0
     total_recall = 0
+    count = 0
     
-    for gold_answer_list, generated_answer in zip(gold_answers, generated_answers):
-        recall, f1 = compute_recall_f1_single(gold_answer_list, generated_answer)
+    for qid in gold_answers:
+        if qid not in generated_answers:
+            continue
+        gold_answer = gold_answers[qid]
+        pred = generated_answers[qid][0] if generated_answers[qid] else ""
+        
+        recall, f1 = compute_recall_f1_single(gold_answer, pred)
         total_f1 += f1
         total_recall += recall
+        count += 1
     
-    avg_f1 = 100 * total_f1 / len(gold_answers) if gold_answers else 0.0
-    avg_recall = 100 * total_recall / len(gold_answers) if gold_answers else 0.0
+    avg_f1 = 100 * total_f1 / count if count else 0.0
+    avg_recall = 100 * total_recall / count if count else 0.0
     
     return avg_recall, avg_f1
 
@@ -173,8 +180,6 @@ def load_system_predictions(prediction_file: str) -> dict:
 
 def evaluate_system(references: dict, predictions: dict, use_semantic: bool = False, semantic_threshold: float = 0.7) -> dict:
     em_scores = 0
-    f1_scores = []
-    recall_scores = []
     missing_count = 0
     empty_reference_count = 0
     empty_prediction_count = 0
