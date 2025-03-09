@@ -52,7 +52,6 @@ def exact_match(predictions_dict, references_dict):
                 return 1
         return 0
     
-    # Track counts for percentage calculation
     total_questions = 0
     exact_match_count = 0
     for qid in references_dict:
@@ -71,60 +70,87 @@ def exact_match(predictions_dict, references_dict):
     return 100.0 * exact_match_count / total_questions
 
 def answer_recall(prediction: str, ground_truths: list) -> float:
-    """
-    recall = number of correct predictions / number of ground truths
-    """
-    if not prediction or not ground_truths:
-        return 0.0
-    recall_scores = []
-    prediction_tokens = set(prediction.split())
-    if not prediction_tokens:
-        return 0.0
-    for ground_truth in ground_truths:
-        ground_truth_tokens = set(ground_truth.split())
-        if len(ground_truth_tokens) == 0:
-            recall_scores.append(0)
-        else:
-            common_tokens = prediction_tokens & ground_truth_tokens
-            recall = len(common_tokens) / len(ground_truth_tokens)
-            recall_scores.append(recall)
-    return max(recall_scores) if recall_scores else 0
-
-def f1_score(prediction: str, ground_truths: list) -> float:
-    """
-    f1 = 2 * precision * recall / (precision + recall)
-    """
     if not prediction or not ground_truths:
         return 0.0
     
-    def extract_entities(text: str) -> Counter:
+    def get_tokens(text: str) -> list:
+        """Tokenize text by splitting on whitespace."""
         if not text or not isinstance(text, str):
-            return Counter()
-        words = re.findall(r'\b\w+\b', text)
-        entities = [word for word in words if (word[0].isupper() and len(word) > 1) or any(c.isdigit() for c in word)]
-        return Counter(entities)
-
-    f1_scores = []
-    pred_entities = extract_entities(prediction)
-    if not pred_entities:
-        return 0.0
+            return []
+        return text.lower().split()
+    
+    max_recall = 0.0
+    pred_tokens = Counter(get_tokens(prediction))
+    
     for ground_truth in ground_truths:
-        truth_entities = extract_entities(ground_truth)
-        if len(truth_entities) == 0:
-            f1_scores.append(0)
+        gt_tokens = Counter(get_tokens(ground_truth))
+        num_gt_tokens = sum(gt_tokens.values())
+        
+        if num_gt_tokens == 0:
+            continue    
+        
+        num_same = sum((pred_tokens & gt_tokens).values())
+        recall = num_same / num_gt_tokens
+        max_recall = max(max_recall, recall)
+    
+    return max_recall
+
+def f1_score(prediction: str, ground_truths: list) -> float:
+    if not prediction or not ground_truths:
+        return 0.0
+    
+    def get_tokens(text: str) -> list:
+        """Tokenize text by splitting on whitespace."""
+        if not text or not isinstance(text, str):
+            return []
+        return text.lower().split()
+    
+    max_f1 = 0.0
+    pred_tokens = Counter(get_tokens(prediction))
+    num_pred_tokens = sum(pred_tokens.values())
+    
+    if num_pred_tokens == 0:
+        return 0.0
+    
+    for ground_truth in ground_truths:
+        gt_tokens = Counter(get_tokens(ground_truth))
+        num_gt_tokens = sum(gt_tokens.values())
+        
+        if num_gt_tokens == 0:
             continue
-        matches = sum((min(pred_entities[e], truth_entities[e]) for e in truth_entities if e in pred_entities))
-        if sum(pred_entities.values()) == 0:
-            precision = 0
-        else:
-            precision = matches / sum(pred_entities.values())
-        recall = matches / sum(truth_entities.values())
+        num_same = sum((pred_tokens & gt_tokens).values())
+        
+        if num_same == 0:
+            continue
+            
+        precision = num_same / num_pred_tokens
+        recall = num_same / num_gt_tokens
+        
         if precision + recall == 0:
-            f1_score = 0
+            current_f1 = 0
         else:
-            f1_score = 2 * precision * recall / (precision + recall)
-        f1_scores.append(f1_score)
-    return max(f1_scores) if f1_scores else 0
+            current_f1 = 2 * precision * recall / (precision + recall)
+            
+        max_f1 = max(max_f1, current_f1)
+    
+    return max_f1
+
+def compute_recall_f1_single(gold_answer_list, generated_answer):
+    return answer_recall(generated_answer, gold_answer_list), f1_score(generated_answer, gold_answer_list)
+
+def compute_recall_f1(gold_answers, generated_answers):
+    total_f1 = 0
+    total_recall = 0
+    
+    for gold_answer_list, generated_answer in zip(gold_answers, generated_answers):
+        recall, f1 = compute_recall_f1_single(gold_answer_list, generated_answer)
+        total_f1 += f1
+        total_recall += recall
+    
+    avg_f1 = 100 * total_f1 / len(gold_answers) if gold_answers else 0.0
+    avg_recall = 100 * total_recall / len(gold_answers) if gold_answers else 0.0
+    
+    return avg_recall, avg_f1
 
 def load_reference_answers(reference_file: str) -> dict:
     """
@@ -170,7 +196,6 @@ def evaluate_system(references: dict, predictions: dict, use_semantic: bool = Fa
         if isinstance(prediction, list) and prediction:
             prediction = prediction[0]
         
-        # Skip empty predictions
         if not isinstance(prediction, str) or not prediction.strip():
             empty_prediction_count += 1
             continue
@@ -178,27 +203,16 @@ def evaluate_system(references: dict, predictions: dict, use_semantic: bool = Fa
         if not is_meaningful_answer(prediction, reference, use_semantic=use_semantic, semantic_threshold=semantic_threshold):
             not_meaningful_count += 1
             continue
-        
-        f1 = f1_score(prediction, reference)
-        rec = answer_recall(prediction, reference)
-        f1_scores.append(f1)
-        recall_scores.append(rec)
     
     # Calculate exact match separately    
     em_scores = exact_match(predictions, references)
-    
-    # Avoid division by zero by providing default values
-    avg_f1 = (sum(f1_scores) / len(f1_scores)) * 100 if f1_scores else 0.0
-    avg_recall = (sum(recall_scores) / len(recall_scores)) * 100 if recall_scores else 0.0
-    
-    total_questions = len(references) - empty_reference_count    
+    avg_recall, avg_f1 = compute_recall_f1(predictions, references)
     results = {
         "Exact Match": em_scores,
         "F1 Score": avg_f1,
         "Recall": avg_recall,
         "Missing Answers": missing_count,
         "Empty References": empty_reference_count,
-        "Empty Predictions": empty_prediction_count,
         "Not Meaningful": not_meaningful_count,
     }
     return results
@@ -283,8 +297,6 @@ def main():
                     print(f"    Recall: {system_results['Recall']:.2f}%")
                     print(f"    Missing Answers: {system_results['Missing Answers']}")
                     
-                    if system_results['Empty Predictions'] > 0:
-                        print(f"    Empty Predictions: {system_results['Empty Predictions']}")
                     if system_results['Empty References'] > 0:
                         print(f"    Empty References: {system_results['Empty References']}")
                     if system_results['Not Meaningful'] > 0:
@@ -337,7 +349,6 @@ def main():
                     main_metrics = ["Exact Match", "F1 Score", "Recall"]
                     metrics_str = ", ".join([f"'{k}': {metrics[k]:.2f}" for k in main_metrics])
                     metrics_str += f", 'Missing': {metrics['Missing Answers']}"
-                    metrics_str += f", 'Empty Preds': {metrics['Empty Predictions']}"
                     metrics_str += f", 'Empty Refs': {metrics['Empty References']}"
                     metrics_str += f", 'Not Meaningful': {metrics['Not Meaningful']}"
                     f.write(f"{{{metrics_str}}} {pred_file}\n")

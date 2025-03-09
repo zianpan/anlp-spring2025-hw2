@@ -2,5 +2,5 @@
 
 ## Reference: reference
 
-{'Exact Match': 70.00, 'F1 Score': 97.92, 'Recall': 98.61, 'Missing': 0, 'Empty Preds': 0, 'Empty Refs': 0, 'Not Meaningful': 2} system_output_1.json
+{'Exact Match': 44.44, 'F1 Score': 33.33, 'Recall': 33.33, 'Missing': 1, 'Empty Refs': 0, 'Not Meaningful': 5} system_output_1.json
 
