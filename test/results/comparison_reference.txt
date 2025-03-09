@@ -1,0 +1,11 @@
+{
+  "system_output_1.json": {
+    "Exact Match": 70.0,
+    "F1 Score": 97.91666666666667,
+    "Recall": 98.61111111111111,
+    "Missing Answers": 0,
+    "Empty References": 0,
+    "Empty Predictions": 0,
+    "Not Meaningful": 2
+  }
+}

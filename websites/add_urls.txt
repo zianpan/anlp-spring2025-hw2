@@ -8,7 +8,7 @@ https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1743483600000
 https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1746075600000&end=1748735940000 -> opera_events3.txt
 https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1751346000000&end=1754006340000 -> opera_events4.txt
 https://trustarts.org/calendar?organization_id=1 -> trustarts_events1.txt ~ trustarts_events6.txt
-https://www.nhl.com/penguins/schedule/2025-03-01/list
+https://www.nhl.com/penguins/schedule/2025-03-01/list -> penguins_schedule.txt
 
 === 这个网站比较麻烦，很多信息都没有
 https://www.steelers.com/
