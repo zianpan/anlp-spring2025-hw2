@@ -1,10 +1,10 @@
 {
   "system_output_1.json": {
-    "Exact Match": 100.0,
-    "F1 Score": 100.0,
-    "Recall": 100.0,
-    "Missing Answers": 0,
+    "Exact Match": 44.44444444444444,
+    "F1 Score": 52.77777777777778,
+    "Recall": 52.77777777777778,
+    "Missing Answers": 1,
     "Empty References": 0,
-    "Not Meaningful": 0
+    "Not Meaningful": 5
   }
 }
