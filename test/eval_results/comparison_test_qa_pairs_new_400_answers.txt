@@ -1,10 +1,7 @@
 {
   "test_qa_pairs_new_400_answers.json": {
     "Exact Match": 35.86206896551724,
-    "F1 Score": 48.8365362494542,
-    "Recall": 49.06960394563151,
-    "Missing Answers": 0,
-    "Empty References": 0,
-    "Not Meaningful": 211
+    "F1 Score": 51.18069596644848,
+    "Recall": 51.10495895435045
   }
 }

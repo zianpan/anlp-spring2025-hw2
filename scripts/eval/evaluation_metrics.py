@@ -5,8 +5,9 @@ import os
 import re
 from collections import Counter
 from sentence_transformers import SentenceTransformer, util
-MODEL = SentenceTransformer('all-MiniLM-L6-v2')
+import string
 
+# =======================================load and process answers======================================
 def process_answer(answer: str) -> list:
     """
     Given an answer string, split it on semicolons (if present),
@@ -18,146 +19,20 @@ def process_answer(answer: str) -> list:
     #     return [a.strip() for a in answer.split(";") if a.strip()]
     return [answer.strip()]
 
-def is_meaningful_answer(prediction: str, ground_truths: list, use_semantic: bool = False, semantic_threshold: float = 0.7) -> bool:
-    def semantic_similarity(prediction: str, ground_truths: list, threshold: float = 0.7) -> bool:
-        """
-        Use a language model to compute semantic similarity between prediction and reference answers.
-        Returns True if the prediction is semantically similar to any of the ground truths.
-        """
-        pred_embedding = MODEL.encode(prediction, convert_to_tensor=True)
-        
-        for ground_truth in ground_truths:
-            gt_embedding = MODEL.encode(ground_truth, convert_to_tensor=True)
-            similarity = util.pytorch_cos_sim(pred_embedding, gt_embedding).item()
-            if similarity >= threshold:
-                return True
-        
-        return False
-    
-    if use_semantic:
-        if semantic_similarity(prediction, ground_truths, semantic_threshold):
-            return True
-        else:
-            return False
-    print("semantic not used")
-    return True
-
-def exact_match(predictions_dict, references_dict):
-    def exact_match_single(reference_list, prediction):
-        """Check if prediction matches any reference answer."""
-        if not prediction or not reference_list:
-            return 0
-        for reference in reference_list:
-            if prediction == reference:
-                return 1
-        return 0
-    missing_count = 0
-    total_questions = 0
-    exact_match_count = 0
-    for qid in references_dict:
-        reference_list = references_dict[qid]
-        prediction_list = predictions_dict[qid]
-        # print(reference_list, prediction_list)
-        
-        if reference_list and prediction_list:
-            prediction = prediction_list[0]
-            exact_match_count += exact_match_single(reference_list, prediction)
-        else:
-            missing_count += 1
-        total_questions += 1
-    if total_questions == 0:
-        return 0.0
-    return 100.0 * (exact_match_count) / total_questions, missing_count
-
-def answer_recall(prediction: str, ground_truths: list) -> float:
-    if not prediction or not ground_truths:
-        return 0.0
-    
-    def get_tokens(text: str) -> list:
-        """Tokenize text by splitting on whitespace."""
-        if not text or not isinstance(text, str):
-            return []
-        return text.lower().split()
-    
-    max_recall = 0.0
-    pred_tokens = Counter(get_tokens(prediction))
-    
-    for ground_truth in ground_truths:
-        gt_tokens = Counter(get_tokens(ground_truth))
-        num_gt_tokens = sum(gt_tokens.values())
-        
-        if num_gt_tokens == 0:
-            continue    
-        
-        num_same = sum((pred_tokens & gt_tokens).values())
-        recall = num_same / num_gt_tokens
-        max_recall = max(max_recall, recall)
-    
-    return max_recall
-
-def f1_score(prediction: str, ground_truths: list) -> float:
-    if not prediction or not ground_truths:
-        return 0.0
-    
-    def get_tokens(text: str) -> list:
-        """Tokenize text by splitting on whitespace."""
-        if not text or not isinstance(text, str):
-            return []
-        return text.lower().split()
-    
-    max_f1 = 0.0
-    pred_tokens = Counter(get_tokens(prediction))
-    num_pred_tokens = sum(pred_tokens.values())
-    
-    if num_pred_tokens == 0:
-        return 0.0
-    
-    for ground_truth in ground_truths:
-        gt_tokens = Counter(get_tokens(ground_truth))
-        num_gt_tokens = sum(gt_tokens.values())
-        
-        if num_gt_tokens == 0:
-            continue
-        num_same = sum((pred_tokens & gt_tokens).values())
-        
-        if num_same == 0:
-            continue
-            
-        precision = num_same / num_pred_tokens
-        recall = num_same / num_gt_tokens
-        
-        if precision + recall == 0:
-            current_f1 = 0
-        else:
-            current_f1 = 2 * precision * recall / (precision + recall)
-            
-        max_f1 = max(max_f1, current_f1)
-    
-    return max_f1
-
-def compute_recall_f1_single(gold_answer_list, generated_answer):
-    return answer_recall(generated_answer, gold_answer_list), f1_score(generated_answer, gold_answer_list)
-
-def compute_recall_f1(gold_answers, generated_answers):
-    total_f1 = 0
-    total_recall = 0
-    count = 0
-    
-    for qid in gold_answers:
-        if qid not in generated_answers:
-            continue
-        gold_answer = gold_answers[qid]
-        pred = generated_answers[qid][0] if generated_answers[qid] else ""
-        
-        recall, f1 = compute_recall_f1_single(gold_answer, pred)
-        total_f1 += f1
-        total_recall += recall
-        count += 1
-    
-    avg_f1 = 100 * total_f1 / count if count else 0.0
-    avg_recall = 100 * total_recall / count if count else 0.0
-    
-    return avg_recall, avg_f1
+def get_tokens(answer):
+    answer = str(answer).lower()
+    answer = answer.replace(u'\u00a0', ' ')
+    while len(answer) > 1 and answer[0] in set(string.whitespace + string.punctuation):
+        answer = answer[1:]
+    while len(answer) > 1 and answer[-1] in set(string.whitespace + string.punctuation):
+        answer = answer[:-1]
+    answer = answer.split()
+    if len(answer) > 1 and answer[0] in {"a", "an", "the"}:
+        answer = answer[1:]
+    processed_answer = ' '.join(answer)
+    for delimiter in set(string.whitespace + string.punctuation):
+        processed_answer = processed_answer.replace(delimiter, ' ')
+    return processed_answer.split()
 
 def load_reference_answers(reference_file: str) -> dict:
     """
@@ -178,11 +53,117 @@ def load_system_predictions(prediction_file: str) -> dict:
         predictions = json.load(f)
     return {qid: process_answer(pred) for qid, pred in predictions.items()}
 
-def evaluate_system(references: dict, predictions: dict, use_semantic: bool = False, semantic_threshold: float = 0.7) -> dict:
+# =======================================evaluation metrics======================================
+def exact_match(predictions_dict, references_dict):
+    def exact_match_single(reference_list, prediction):
+        """Check if normalized prediction matches any normalized reference answer."""
+        if not prediction or not reference_list:
+            return 0
+        for reference in reference_list:
+            if prediction == reference:
+                return 1
+        return 0
+
+    total_questions = 0
+    exact_match_count = 0
+    for qid in references_dict:
+        reference_list = references_dict[qid]
+        prediction_list = predictions_dict[qid]
+        
+        if reference_list and prediction_list:
+            prediction = prediction_list[0]  # Take first prediction
+            exact_match_count += exact_match_single(reference_list, prediction)
+        
+        total_questions += 1
+
+    if total_questions == 0:
+        return 0.0
+    return 100.0 * (exact_match_count) / total_questions
+
+def answer_recall(prediction: str, ground_truths: list) -> float:
+    """Compute recall as the maximum token overlap between prediction and any ground truth answer."""
+    if not prediction or not ground_truths:
+        return 0.0
+
+    pred_tokens = Counter(get_tokens(prediction))  # Tokenize prediction
+    num_pred_tokens = sum(pred_tokens.values())
+    if num_pred_tokens == 0:
+        return 0.0  # Avoid division by zero
+    max_recall = 0.0
+    for ground_truth in ground_truths:
+        gt_tokens = Counter(get_tokens(ground_truth))
+        num_gt_tokens = sum(gt_tokens.values())
+
+        if num_gt_tokens == 0:
+            continue  # Skip empty ground truths
+
+        num_same = sum((pred_tokens & gt_tokens).values())
+
+        if num_same == 0:
+            continue  # No common words, recall remains 0
+
+        recall = num_same / num_gt_tokens
+        max_recall = max(max_recall, recall)
+
+    return max_recall
+
+def f1_score(prediction: str, ground_truths: list) -> float:
+    """Compute max F1 score between a prediction and a set of ground truth answers."""
+    if not prediction or not ground_truths:
+        return 0.0
+
+    pred_tokens = Counter(get_tokens(prediction))
+    num_pred_tokens = sum(pred_tokens.values())
+
+    if num_pred_tokens == 0:
+        return 0.0  # Avoid division by zero
+
+    max_f1 = 0.0
+
+    for ground_truth in ground_truths:
+        gt_tokens = Counter(get_tokens(ground_truth))
+        num_gt_tokens = sum(gt_tokens.values())
+
+        if num_gt_tokens == 0:
+            continue  # Skip empty ground truths
+
+        num_same = sum((pred_tokens & gt_tokens).values())  # Compute word overlap
+
+        if num_same == 0:
+            continue  # No common words, F1 remains 0
+
+        precision = num_same / num_pred_tokens
+        recall = num_same / num_gt_tokens
+
+        current_f1 = (2 * precision * recall) / (precision + recall) if precision + recall > 0 else 0
+        max_f1 = max(max_f1, current_f1)  # Take the best match
+    return max_f1
+
+def compute_recall_f1(gold_answers, generated_answers):
+    total_f1 = 0
+    total_recall = 0
+    count = 0
+    
+    for qid in gold_answers:
+        if qid not in generated_answers:
+            continue
+        gold_answer = gold_answers[qid]
+        pred = generated_answers[qid][0] if generated_answers[qid] else ""
+        
+        recall, f1 = answer_recall(pred, gold_answer), f1_score(pred, gold_answer)
+        total_f1 += f1
+        total_recall += recall
+        count += 1
+    
+    avg_f1 = 100 * total_f1 / count if count else 0.0
+    avg_recall = 100 * total_recall / count if count else 0.0
+    
+    return avg_recall, avg_f1
+
+def evaluate_system(references: dict, predictions: dict) -> dict:
     em_scores = 0
     empty_reference_count = 0
     empty_prediction_count = 0
-    not_meaningful_count = 0
     for qid in sorted(references.keys()):
         reference = references.get(qid, "")
         if not reference:
@@ -201,20 +182,14 @@ def evaluate_system(references: dict, predictions: dict, use_semantic: bool = Fa
             empty_prediction_count += 1
             continue
             
-        if not is_meaningful_answer(prediction, reference, use_semantic=use_semantic, semantic_threshold=semantic_threshold):
-            not_meaningful_count += 1
-            continue
     
     # Calculate exact match separately    
-    em_scores, missing_count = exact_match(predictions, references)
+    em_scores = exact_match(predictions, references)
     avg_recall, avg_f1 = compute_recall_f1(predictions, references)
     results = {
         "Exact Match": em_scores,
         "F1 Score": avg_f1,
         "Recall": avg_recall,
-        "Missing Answers": missing_count,
-        "Empty References": empty_reference_count,
-        "Not Meaningful": not_meaningful_count,
     }
     return results
 
@@ -223,12 +198,8 @@ def main():
     parser.add_argument("--references_dir", type=str, required=True, help="Directory containing reference answer JSON files")
     parser.add_argument("--predictions_dir", type=str, required=True, help="Directory containing system output JSON files")
     parser.add_argument("--output_dir", type=str, required=True, help="Directory to save output comparison files")
-    parser.add_argument("--semantic", action="store_true", help="Use semantic similarity to determine if an answer is meaningful")
-    parser.add_argument("--semantic_threshold", type=float, default=0.7, help="Threshold for semantic similarity")
     
     args = parser.parse_args()
-    use_semantic = args.semantic
-    semantic_threshold = args.semantic_threshold
     os.makedirs(args.output_dir, exist_ok=True)
     os.makedirs(args.references_dir, exist_ok=True)
         
@@ -283,17 +254,8 @@ def main():
                         print(f"  Skipping empty prediction file: {pred_file}")
                         continue
                     
-                    # Patch the is_meaningful_answer to use current parameters
                     def evaluate_with_params(refs, preds):
-                        global is_meaningful_answer
-                        original_func = is_meaningful_answer
-                        def patched_is_meaningful(pred, refs, 
-                                                use_semantic=use_semantic, 
-                                                semantic_threshold=semantic_threshold):
-                            return original_func(pred, refs, use_semantic, semantic_threshold)
-                        is_meaningful_answer = patched_is_meaningful
-                        result = evaluate_system(refs, preds, use_semantic, semantic_threshold)
-                        is_meaningful_answer = original_func
+                        result = evaluate_system(refs, preds)
                         return result
                     
                     system_results = evaluate_with_params(references, predictions)
@@ -303,12 +265,6 @@ def main():
                     print(f"    Exact Match: {system_results['Exact Match']:.2f}%")
                     print(f"    F1 Score: {system_results['F1 Score']:.2f}%")
                     print(f"    Recall: {system_results['Recall']:.2f}%")
-                    print(f"    Missing Answers: {system_results['Missing Answers']}")
-                    
-                    if system_results['Empty References'] > 0:
-                        print(f"    Empty References: {system_results['Empty References']}")
-                    if system_results['Not Meaningful'] > 0:
-                        print(f"    Not Meaningful Answers: {system_results['Not Meaningful']}")
                         
                 except Exception as e:
                     print(f"  Error evaluating {pred_file} against {ref_file}: {str(e)}")
@@ -356,9 +312,6 @@ def main():
                 for pred_file, metrics in sorted_results:
                     main_metrics = ["Exact Match", "F1 Score", "Recall"]
                     metrics_str = ", ".join([f"'{k}': {metrics[k]:.2f}" for k in main_metrics])
-                    metrics_str += f", 'Missing': {metrics['Missing Answers']}"
-                    metrics_str += f", 'Empty Refs': {metrics['Empty References']}"
-                    metrics_str += f", 'Not Meaningful': {metrics['Not Meaningful']}"
                     f.write(f"{{{metrics_str}}} {pred_file}\n")
                 f.write("\n")
         

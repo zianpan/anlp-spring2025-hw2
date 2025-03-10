@@ -1,10 +1,7 @@
 {
   "test_30_answers.json": {
     "Exact Match": 43.333333333333336,
-    "F1 Score": 57.857490949596226,
-    "Recall": 60.55555555555556,
-    "Missing Answers": 0,
-    "Empty References": 0,
-    "Not Meaningful": 14
+    "F1 Score": 60.01587301587302,
+    "Recall": 63.05555555555556
   }
 }
