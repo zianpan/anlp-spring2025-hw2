@@ -51,23 +51,23 @@ def exact_match(predictions_dict, references_dict):
             if prediction == reference:
                 return 1
         return 0
-    
+    missing_count = 0
     total_questions = 0
     exact_match_count = 0
     for qid in references_dict:
-        if qid not in predictions_dict:
-            continue
         reference_list = references_dict[qid]
         prediction_list = predictions_dict[qid]
+        # print(reference_list, prediction_list)
         
-        if not reference_list or not prediction_list:
-            continue
-        prediction = prediction_list[0]
+        if reference_list and prediction_list:
+            prediction = prediction_list[0]
+            exact_match_count += exact_match_single(reference_list, prediction)
+        else:
+            missing_count += 1
         total_questions += 1
-        exact_match_count += exact_match_single(reference_list, prediction)
     if total_questions == 0:
         return 0.0
-    return 100.0 * exact_match_count / total_questions
+    return 100.0 * (exact_match_count) / total_questions, missing_count
 
 def answer_recall(prediction: str, ground_truths: list) -> float:
     if not prediction or not ground_truths:
@@ -167,7 +167,7 @@ def load_reference_answers(reference_file: str) -> dict:
     """
     with open(reference_file, 'r', encoding='utf-8') as f:
         raw_answers = json.load(f)
-    return {qid: process_answer(ans) for qid, ans in raw_answers.items() if ans and str(ans).strip()}
+    return {qid: process_answer(ans) for qid, ans in raw_answers.items()}
 
 def load_system_predictions(prediction_file: str) -> dict:
     """
@@ -176,11 +176,10 @@ def load_system_predictions(prediction_file: str) -> dict:
     """
     with open(prediction_file, 'r', encoding='utf-8') as f:
         predictions = json.load(f)
-    return {qid: process_answer(pred) for qid, pred in predictions.items() if pred and str(pred).strip()}
+    return {qid: process_answer(pred) for qid, pred in predictions.items()}
 
 def evaluate_system(references: dict, predictions: dict, use_semantic: bool = False, semantic_threshold: float = 0.7) -> dict:
     em_scores = 0
-    missing_count = 0
     empty_reference_count = 0
     empty_prediction_count = 0
     not_meaningful_count = 0
@@ -188,9 +187,6 @@ def evaluate_system(references: dict, predictions: dict, use_semantic: bool = Fa
         reference = references.get(qid, "")
         if not reference:
             empty_reference_count += 1
-            continue
-        if qid not in predictions:
-            missing_count += 1
             continue
         prediction = predictions[qid]
         if not prediction:
@@ -210,7 +206,7 @@ def evaluate_system(references: dict, predictions: dict, use_semantic: bool = Fa
             continue
     
     # Calculate exact match separately    
-    em_scores = exact_match(predictions, references)
+    em_scores, missing_count = exact_match(predictions, references)
     avg_recall, avg_f1 = compute_recall_f1(predictions, references)
     results = {
         "Exact Match": em_scores,

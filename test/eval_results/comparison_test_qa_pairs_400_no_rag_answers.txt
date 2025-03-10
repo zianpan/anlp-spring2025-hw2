@@ -1,8 +1,8 @@
 {
   "test_qa_pairs_400_no_rag_answers.json": {
-    "Exact Match": 16.75824175824176,
-    "F1 Score": 28.90286536884792,
-    "Recall": 29.608281675589357,
+    "Exact Match": 14.022988505747126,
+    "F1 Score": 24.185386193702627,
+    "Recall": 24.775665586010405,
     "Missing Answers": 71,
     "Empty References": 0,
     "Not Meaningful": 257

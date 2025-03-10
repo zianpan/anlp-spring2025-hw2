@@ -4,9 +4,13 @@
 
 {'Exact Match': 35.86, 'F1 Score': 48.84, 'Recall': 49.07, 'Missing': 0, 'Empty Refs': 0, 'Not Meaningful': 211} test_qa_pairs_new_400_answers.json
 
+## Reference: reference
+
+{'Exact Match': 100.00, 'F1 Score': 100.00, 'Recall': 100.00, 'Missing': 0, 'Empty Refs': 0, 'Not Meaningful': 0} reference.json
+
 ## Reference: test_qa_pairs_400_no_rag_answers
 
-{'Exact Match': 16.76, 'F1 Score': 28.90, 'Recall': 29.61, 'Missing': 71, 'Empty Refs': 0, 'Not Meaningful': 257} test_qa_pairs_400_no_rag_answers.json
+{'Exact Match': 14.02, 'F1 Score': 24.19, 'Recall': 24.78, 'Missing': 71, 'Empty Refs': 0, 'Not Meaningful': 257} test_qa_pairs_400_no_rag_answers.json
 
 ## Reference: test_qa_pairs_new_2500_38_answers
 
