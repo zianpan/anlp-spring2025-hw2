@@ -39,7 +39,7 @@ if __name__ == "__main__":
         f.write(answer_json)
     
     reference_json = convert_csv_to_json(csv_data, 'reference_answer')
-    reference_output_path = os.path.join(args.reference_dir, f"{base_filename}_reference_answers.json")
+    reference_output_path = os.path.join(args.reference_dir, f"{base_filename}_answers.json")
     with open(reference_output_path, 'w') as f:
         f.write(reference_json)
     
