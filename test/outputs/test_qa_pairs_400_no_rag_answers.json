@@ -1,437 +1,1742 @@
 {
-    "1": "William Pitt",
-    "2": "1900",
-    "3": "Fifth Avenue Bridge",
-    "4": "Daphne Koller",
-    "5": "",
-    "6": "Pittsburgh's cultural district",
-    "7": "",
-    "8": "Pittsburgh Cultural Trust Planned Giving Team",
-    "9": "",
-    "10": "By naming buildings and programs",
-    "11": "",
-    "12": "Heinz Field",
-    "13": "",
-    "14": "Pittsburgh Brewing Company",
-    "15": "Monroeville Brew Trail",
-    "16": "Squirrel Hill",
-    "17": "The Ritz-Carlton",
-    "18": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "19": "",
-    "20": "",
-    "21": "Monongahela and Allegheny rivers",
-    "22": "Heinz History Center",
-    "23": "Carnegie Mellon University",
-    "24": "Andr\u00e9 Marie Amp\u00e8re",
-    "25": "Hillman Complex",
-    "26": "The information regarding a specific accessibility consultant for the Steelers' website improvement efforts isn't available within my training",
-    "27": "WCAG",
-    "28": "Steelers Mobile App",
-    "29": "Heinz Field",
-    "30": "",
-    "31": "5000 Forbes Avenue, Pittsburgh, PA 15213",
-    "32": "Fifth Avenue Bridge",
-    "33": "Assistant Professor Luis von Ahn",
-    "34": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "35": "1900",
-    "36": "",
-    "37": "Pittsburgh Zoo",
-    "38": "Pittsburgh",
-    "39": "",
-    "40": "Pittsburgh Pride",
-    "41": "Heinz History Center",
-    "42": "Gabe Newgarden",
-    "43": "PNC Park",
-    "44": "The Smiling Moose",
-    "45": "\"Hamilton\"",
-    "46": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|user",
-    "47": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "48": "Dr. David Ward",
-    "49": "The Andy Warhol Museum",
-    "50": "Carnegie Mellon University",
-    "51": "2011",
-    "52": "Two",
-    "53": "",
-    "54": "",
-    "55": "15 to 20 families",
-    "56": "Dogwood Bar",
-    "57": "Pittsburgh Brewing Company",
-    "58": "",
-    "59": "",
-    "60": "Le Mardi Gras Festival",
-    "61": "Manasseh Cutler",
-    "62": "Approximately 80%.",
-    "63": "Goldenrod",
-    "64": "Cleveland",
-    "65": "Carnegie Mellon University",
-    "66": "Neon Queen Bar",
-    "67": "1993 to 2018",
-    "68": "The Waterfront",
-    "69": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "70": "Downtown Partnership",
-    "71": "",
-    "72": "\"Women's March for Justice\"",
-    "73": "<|repo_name|>joshuadavis/qa-pittsburgh-cmu<|",
-    "74": "Carnegie Mellon University",
-    "75": "<|end_of_document|>",
-    "76": "November 22",
-    "77": "Carnegie Mellon University",
-    "78": "Christmas City Lights Festival",
-    "79": "1991",
-    "80": "Three Rivers Arts Festival",
-    "81": "Pittsburgh",
-    "82": "Pittsburgh Steelers",
-    "83": "",
-    "84": "Carnegie Mellon University",
-    "85": "Heinz College",
-    "86": "Pittsburgh Pirates",
-    "87": "Carnegie Mellon University",
-    "88": "Liberty Avenue",
-    "89": "There is no known event hosted by the Arizona Diamondbacks specifically in Pittsburgh.",
-    "90": "Pittsburgh Pirates",
-    "91": "Pittsburgh Playhouse",
-    "92": "",
-    "93": "Guitar Arts Program",
-    "94": "5000 Forbes Avenue, Pittsburgh",
-    "95": "Crawford Long Auditorium",
-    "96": "Thomson Technical School",
-    "97": "Homestead Grays Bridge",
-    "98": "",
-    "99": "Schenley Park",
-    "100": "",
-    "101": "Fifth Avenue Bridge",
-    "102": "Carnegie Mellon University",
-    "103": "Henry Clay Frick",
-    "104": "Pittsburgh Comedy Festival",
-    "105": "Soho",
-    "106": "Pittsburgh Playhouse Garage",
-    "107": "Pittsburgh Ballet Theatre",
-    "108": "August Wilson Center",
-    "109": "Forbes Avenue",
-    "110": "Andrew Carnegie and Henry Clay Frick",
-    "111": "Daphne Koller",
-    "112": "\"American Idiot\"",
-    "113": "Tim Rice",
-    "114": "Byham Theater",
-    "115": "Carnegie Mellon University",
-    "116": "\"Tommy\"",
-    "117": "Carnegie Mellon University",
-    "118": "Pittsburgh",
-    "119": "The Strip District",
-    "120": "<|end_of_document|>",
-    "121": "",
-    "122": "",
-    "123": "Byham Theater",
-    "124": "Gioachino Rossini",
-    "125": "Pittsburgh Foundation",
-    "126": "Pittsburgh Opera Club",
-    "127": "\"Viva Cuba\"",
-    "128": "The information regarding a specific recent project by Vania Evangelique is not available to me.",
-    "129": "Carnegie Mellon University",
-    "130": "I don't know.",
-    "131": "Pittsburgh",
-    "132": "Point State Park",
-    "133": "Department of Public Works",
-    "134": "",
-    "135": "Carnegie Mellon University",
-    "136": "The Strip District",
-    "137": "Steel City Roller Girls",
-    "138": "Pittsburgh Women's Small Business Initiative",
-    "139": "Greenlight Bookstore",
-    "140": "La Isla",
-    "141": "",
-    "142": "Heinz History Center",
-    "143": "37",
-    "144": "Louis Kahn",
-    "145": "Heinz History Center",
-    "146": "Carnegie Museum",
-    "147": "Over 50",
-    "148": "pittsburghpirates.com",
-    "149": "",
-    "150": "Pittsburgh's PNC Park",
-    "151": "",
-    "152": "Pirates Prospects List",
-    "153": "Downtown Great Race",
-    "154": "Downtown Partnership",
-    "155": "St. Patrick's Festival",
-    "156": "Pittsburgh Parade Day Dash",
-    "157": "",
-    "158": "Heinz History Ball",
-    "159": "",
-    "160": "Heinz History Center",
-    "161": "The Restaurant Group",
-    "162": "",
-    "163": "",
-    "164": "",
-    "165": "Carnegie Science Center",
-    "166": "",
-    "167": "",
-    "168": "",
-    "169": "PNC Park",
-    "170": "Steel City Sports Fest",
-    "171": "> Mark Kozlowski",
-    "172": "",
-    "173": "1000 Liberty Avenue",
-    "174": "",
-    "175": "Pittsburgh Cultural Trust",
-    "176": "(212) 255-7001",
-    "177": "",
-    "178": "Carnegie Mellon University",
-    "179": "Pittsburgh Filmmakers",
-    "180": "",
-    "181": "The Ghost Club",
-    "182": "Mario Elie",
-    "183": "",
-    "184": "15",
-    "185": "Student Trustee",
-    "186": "Andrew Carnegie Society Representative",
-    "187": "As of my last update, I don\u2019t have access to real-time data and specific names like current",
-    "188": "",
-    "189": "Pittsburgh Book Festival",
-    "190": "\"Shadow Game\"",
-    "191": "",
-    "192": "City Lights Booksellers & Publishers",
-    "193": "Two",
-    "194": "The Andy Warhol Museum",
-    "195": "<|repo_name|>joshuadavis/qa-pittsburgh-cmu<|",
-    "196": "<|end_of_document|>",
-    "197": "Andrew Carnegie",
-    "198": "Frick Fine Arts Building",
-    "199": "Pittsburgh Music Festival",
-    "200": "",
-    "201": "Timmy Turner",
-    "202": "Mayor Peduto",
-    "203": "(617) 235-7529",
-    "204": "",
-    "205": "Pittsburgh Today & Tomorrow",
-    "206": "1001 Liberty Avenue",
-    "207": "",
-    "208": "Pittsburgh Oktoberfest",
-    "209": "Tops On The Town",
-    "210": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
-    "211": "Gallery Film Series",
-    "212": "<|repo_name|>joshuadickerson/qa-pittsburgh-cmu<",
-    "213": "Carnegie Mellon University",
-    "214": "",
-    "215": "Steelers Accounting Academy",
-    "216": "T.J. Watt",
-    "217": "",
-    "218": "Pittsburgh Civic Arena",
-    "219": "Pittsburgh Public Square",
-    "220": "Downtown Partnership",
-    "221": "Fifth Avenue",
-    "222": "",
-    "223": "Pittsburgh Penguins",
-    "224": "Liberty Avenue",
-    "225": "St. Louis Blues",
-    "226": "Pittsburgh",
-    "227": "Mike Sullivan",
-    "228": "According to data from the Substance Abuse and Mental Health Services Administration's National Survey on Drug Use and Health",
-    "229": "",
-    "230": "The Last Thing He Told Me",
-    "231": "Eric's Enchanted Evening",
-    "232": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
-    "233": "1771",
-    "234": "<|repo_name|>joshuadickerson/qa-pittsburgh-cmu<",
-    "235": "Pittsburgh Opera",
-    "236": "> I don't know.",
-    "237": "> Mark DeChiazza",
-    "238": "myaccount.cmu.edu",
-    "239": "Report Suspicious Activity",
-    "240": "Error",
-    "241": "Carnegie Learning",
-    "242": "Carnegie Mellon ID Reset",
-    "243": "September 25, 1758",
-    "244": "Fort Duquesne",
-    "245": "General John Forbes",
-    "246": "Forbes Road",
-    "247": "William Pitt",
-    "248": "Fort Duquesne Bridge",
-    "249": "",
-    "250": "Carnegie Mellon University",
-    "251": "Pittsburgh",
-    "252": "Pittsburgh Campus",
-    "253": "Three Rivers Arts Festival",
-    "254": "Andy Warhol Museum",
-    "255": "Early 19th century",
-    "256": "Heinz Hall",
-    "257": "<|repo_name|>joshuadavis/qa-data-pittsburgh-cmu<",
-    "258": "<|end_of_document|>",
-    "259": "Heinz Field",
-    "260": "2008",
-    "261": "Aviva Stadium",
-    "262": "Dan Rooney",
-    "263": "Irish America",
-    "264": "Heinz Field",
-    "265": "Acrisure Club Level",
-    "266": "Acrisure Fan Zone",
-    "267": "Clear plastic/glass bags up to 12\" x 6\"",
-    "268": "Pittsburgh Steelers and Pittsburgh Panthers",
-    "269": "",
-    "270": "",
-    "271": "",
-    "272": "Carnegie Connections",
-    "273": "Carnegie Mellon Advancement",
-    "274": "Heinz Hall",
-    "275": "Heinz Field",
-    "276": "Heinz Hall",
-    "277": "Shady Side Academy",
-    "278": "",
-    "279": "Heinz Hall",
-    "280": "Nederlander Organization",
-    "281": "The First Musical",
-    "282": "August Wilson Center",
-    "283": "1900",
-    "284": "",
-    "285": "Liberty Magic Fund",
-    "286": "Magic News",
-    "287": "Carnegie Mellon University",
-    "288": "James Kenney",
-    "289": "Fort Duquesne Bridge",
-    "290": "Heinz History Center Festival",
-    "291": "1974",
-    "292": "Andrew Carnegie and Henry Clay Frick",
-    "293": "Nittany Lions",
-    "294": "",
-    "295": "Heinz History Center",
-    "296": "Carnegie Mellon University",
-    "297": "Reince Priebus",
-    "298": "Heinz Field",
-    "299": "Andrew Carnegie and Henry Clay Frick",
-    "300": "Three Rivers Arts Festival",
-    "301": "Pittsburgh International LGBTQ+ Film Festival",
-    "302": "PNC Financial Center",
-    "303": "The Cranberries",
-    "304": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "305": "Pittsburgh Rodents",
-    "306": "Twice a year",
-    "307": "Residents and businesses",
-    "308": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "309": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "310": "Pittsburgh Post-Gazette",
-    "311": "Three",
-    "312": "Approximately 20 acres",
-    "313": "Less than a mile",
-    "314": "Pittsburgh International Airport",
-    "315": "<|end_of_document|>",
-    "316": "Pittsburgh's South Side",
-    "317": "\"Girls Gone Dead\"",
-    "318": "Carnegie Mellon University",
-    "319": "Northside Tech Fair",
-    "320": "St Paul's Episcopal Church",
-    "321": "Free",
-    "322": "Fifth Avenue",
-    "323": "2009",
-    "324": "St. Ursula's Parish Hall",
-    "325": "",
-    "326": "Carnegie Institute of Technology",
-    "327": "",
-    "328": "AFL-CIO",
-    "329": "Sweeney",
-    "330": "",
-    "331": "",
-    "332": "Dr. Andrew Weil",
-    "333": "$10",
-    "334": "",
-    "335": "Pittsburgh Penguins' new arena",
-    "336": "PPG Paints Arena",
-    "337": "Pittsburgh Civic Light Opera",
-    "338": "2008",
-    "339": "",
-    "340": "Friendship Community Garden",
-    "341": "Squirrel Hill",
-    "342": "Pittsburgh Food Policy Council",
-    "343": "",
-    "344": "Alec Gershon",
-    "345": "The Cultural District",
-    "346": "Byham Theater",
-    "347": "Carnegie Mellon University",
-    "348": "Byham Theater",
-    "349": "$25 per person",
-    "350": "Pittsburgh Cultural Trust",
-    "351": "New Year's Eve Festival",
-    "352": "Carnegie Mellon University",
-    "353": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
-    "354": "Carnegie Mellon University",
-    "355": "Pittsburgh Lacrosse Club",
-    "356": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
-    "357": "The Mattress Factory",
-    "358": "1891",
-    "359": "Pride and perseverance.",
-    "360": "Carnegie Mellon University",
-    "361": "Monongahela and Allegheny rivers",
-    "362": "William Penn",
-    "363": "Pittsburgh Renaissance Fund",
-    "364": "Pittsburgh's Dine Outdoors Grant",
-    "365": "$50,000",
-    "366": "Pittsburgh Storefront Improvement Program",
-    "367": "> Mark Sivak",
-    "368": "",
-    "369": "<|repo_name|>jamesmthompson/qa-pittsburgh-cmu<|",
-    "370": "September 2023",
-    "371": "Bob and Joan Kamin Family Foundation",
-    "372": "I don't know.",
-    "373": "Whoopie pie",
-    "374": "Pittsburgh",
-    "375": "Banana Split Festival",
-    "376": "Since 1951",
-    "377": "Thon",
-    "378": "Carnegie Mellon University",
-    "379": "Assistant Professor Luis von Ahn",
-    "380": "Heinz Memorial Chapel",
-    "381": "",
-    "382": "Pittsburgh's Oakland neighborhood",
-    "383": "",
-    "384": "Byham Theater",
-    "385": "October 14",
-    "386": "Pittsburgh City Hall",
-    "387": "1971",
-    "388": "<|end_of_document|>",
-    "389": "Pittsburgh Plaza",
-    "390": "",
-    "391": "Pittsburgh",
-    "392": "Banana Split Festival",
-    "393": "Carnegie Mellon University",
-    "394": "Gavin Keefe",
-    "395": "Banana Festival",
-    "396": "Office of Public Safety",
-    "397": "Gainey's Vision",
-    "398": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
-    "399": "Pittsburgh's Cure Violence Program",
-    "400": "stopviolence@pittsburghpa.gov",
-    "401": "Carnegie Mellon University",
-    "402": "March 2023",
-    "403": "I don't know.",
-    "404": "Jessie Sage",
-    "405": "The Coffee Bar",
-    "406": "",
-    "407": "Up to three additional tickets",
-    "408": "$1,000",
-    "409": "Licensed seats have assigned seating with guaranteed access to events.",
-    "410": "Bureau of Economic Analysis",
-    "411": "Bureau of Economic Analysis",
-    "412": "Pittsburgh",
-    "413": "Carnegie Mellon University",
-    "414": "Pittsburgh Business Cycle Index",
-    "415": "Three Rivers Arts Festival",
-    "416": "I don't know.",
-    "417": "Pittsburgh Regional Transit Authority",
-    "418": "",
-    "419": "\"Comedy Night Live\"",
-    "420": "Carnegie Mellon University",
-    "421": "Carnegie Museum of Art",
-    "422": "",
-    "423": "Heinz Field",
-    "424": "Steelers Football Camp",
-    "425": "$150 per session",
-    "426": "Approximately 20",
-    "427": "Carnegie Mellon University",
-    "428": "Carnegie Mellon University",
-    "429": "",
-    "430": "Fifth Avenue",
-    "431": "Pittsburgh",
-    "432": "Pittsburgh",
-    "433": "Carnegie Mellon University",
-    "434": "",
-    "435": ""
+    "1": {
+        "answer": "William Pitt",
+        "category": "General Info"
+    },
+    "2": {
+        "answer": "1900",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "3": {
+        "answer": "Fifth Avenue Bridge",
+        "category": "General Info"
+    },
+    "4": {
+        "answer": "Daphne Koller",
+        "category": "General Info"
+    },
+    "5": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "6": {
+        "answer": "Pittsburgh's cultural district",
+        "category": "Music and Culture"
+    },
+    "7": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "8": {
+        "answer": "Pittsburgh Cultural Trust Planned Giving Team",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "9": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "10": {
+        "answer": "By naming buildings and programs",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "11": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "12": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "13": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "14": {
+        "answer": "Pittsburgh Brewing Company",
+        "category": "General Info"
+    },
+    "15": {
+        "answer": "Monroeville Brew Trail",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "16": {
+        "answer": "Squirrel Hill",
+        "category": "Music and Culture"
+    },
+    "17": {
+        "answer": "The Ritz-Carlton",
+        "category": "General Info"
+    },
+    "18": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "19": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "20": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "21": {
+        "answer": "Monongahela and Allegheny rivers",
+        "category": "General Info"
+    },
+    "22": {
+        "answer": "Heinz History Center",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "23": {
+        "answer": "Carnegie Mellon University",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "24": {
+        "answer": "Andr\u00e9 Marie Amp\u00e8re",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "25": {
+        "answer": "Hillman Complex",
+        "category": "Music and Culture"
+    },
+    "26": {
+        "answer": "The information regarding a specific accessibility consultant for the Steelers' website improvement efforts isn't available within my training",
+        "category": "General Info"
+    },
+    "27": {
+        "answer": "WCAG",
+        "category": "General Info"
+    },
+    "28": {
+        "answer": "Steelers Mobile App",
+        "category": "Sports"
+    },
+    "29": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "30": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "31": {
+        "answer": "5000 Forbes Avenue, Pittsburgh, PA 15213",
+        "category": "General Info"
+    },
+    "32": {
+        "answer": "Fifth Avenue Bridge",
+        "category": "General Info"
+    },
+    "33": {
+        "answer": "Assistant Professor Luis von Ahn",
+        "category": "General Info"
+    },
+    "34": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "35": {
+        "answer": "1900",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "36": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "37": {
+        "answer": "Pittsburgh Zoo",
+        "category": "Sports"
+    },
+    "38": {
+        "answer": "Pittsburgh",
+        "category": "Music and Culture"
+    },
+    "39": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "40": {
+        "answer": "Pittsburgh Pride",
+        "category": "General Info"
+    },
+    "41": {
+        "answer": "Heinz History Center",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "42": {
+        "answer": "Gabe Newgarden",
+        "category": "General Info"
+    },
+    "43": {
+        "answer": "PNC Park",
+        "category": "Sports"
+    },
+    "44": {
+        "answer": "The Smiling Moose",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "45": {
+        "answer": "\"Hamilton\"",
+        "category": "Music and Culture"
+    },
+    "46": {
+        "answer": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|user",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "47": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "48": {
+        "answer": "Dr. David Ward",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "49": {
+        "answer": "The Andy Warhol Museum",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "50": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "51": {
+        "answer": "2011",
+        "category": "Music and Culture"
+    },
+    "52": {
+        "answer": "Two",
+        "category": "Music and Culture"
+    },
+    "53": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "54": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "55": {
+        "answer": "15 to 20 families",
+        "category": "Music and Culture"
+    },
+    "56": {
+        "answer": "Dogwood Bar",
+        "category": "General Info"
+    },
+    "57": {
+        "answer": "Pittsburgh Brewing Company",
+        "category": "General Info"
+    },
+    "58": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "59": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "60": {
+        "answer": "Le Mardi Gras Festival",
+        "category": "Music and Culture"
+    },
+    "61": {
+        "answer": "Manasseh Cutler",
+        "category": "General Info"
+    },
+    "62": {
+        "answer": "Approximately 80%.",
+        "category": "General Info"
+    },
+    "63": {
+        "answer": "Goldenrod",
+        "category": "General Info"
+    },
+    "64": {
+        "answer": "Cleveland",
+        "category": "General Info"
+    },
+    "65": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "66": {
+        "answer": "Neon Queen Bar",
+        "category": "Music and Culture"
+    },
+    "67": {
+        "answer": "1993 to 2018",
+        "category": "Music and Culture"
+    },
+    "68": {
+        "answer": "The Waterfront",
+        "category": "Music and Culture"
+    },
+    "69": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "General Info"
+    },
+    "70": {
+        "answer": "Downtown Partnership",
+        "category": "General Info"
+    },
+    "71": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "72": {
+        "answer": "\"Women's March for Justice\"",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "73": {
+        "answer": "<|repo_name|>joshuadavis/qa-pittsburgh-cmu<|",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "74": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "75": {
+        "answer": "<|end_of_document|>",
+        "category": "General Info"
+    },
+    "76": {
+        "answer": "November 22",
+        "category": "General Info"
+    },
+    "77": {
+        "answer": "Carnegie Mellon University",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "78": {
+        "answer": "Christmas City Lights Festival",
+        "category": "General Info"
+    },
+    "79": {
+        "answer": "1991",
+        "category": "Sports"
+    },
+    "80": {
+        "answer": "Three Rivers Arts Festival",
+        "category": "Music and Culture"
+    },
+    "81": {
+        "answer": "Pittsburgh",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "82": {
+        "answer": "Pittsburgh Steelers",
+        "category": "Sports"
+    },
+    "83": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "84": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "85": {
+        "answer": "Heinz College",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "86": {
+        "answer": "Pittsburgh Pirates",
+        "category": "Sports"
+    },
+    "87": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "88": {
+        "answer": "Liberty Avenue",
+        "category": "Sports"
+    },
+    "89": {
+        "answer": "There is no known event hosted by the Arizona Diamondbacks specifically in Pittsburgh.",
+        "category": "Sports"
+    },
+    "90": {
+        "answer": "Pittsburgh Pirates",
+        "category": "Sports"
+    },
+    "91": {
+        "answer": "Pittsburgh Playhouse",
+        "category": "Music and Culture"
+    },
+    "92": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "93": {
+        "answer": "Guitar Arts Program",
+        "category": "Music and Culture"
+    },
+    "94": {
+        "answer": "5000 Forbes Avenue, Pittsburgh",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "95": {
+        "answer": "Crawford Long Auditorium",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "96": {
+        "answer": "Thomson Technical School",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "97": {
+        "answer": "Homestead Grays Bridge",
+        "category": "General Info"
+    },
+    "98": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "99": {
+        "answer": "Schenley Park",
+        "category": "General Info"
+    },
+    "100": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "101": {
+        "answer": "Fifth Avenue Bridge",
+        "category": "General Info"
+    },
+    "102": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "103": {
+        "answer": "Henry Clay Frick",
+        "category": "Music and Culture"
+    },
+    "104": {
+        "answer": "Pittsburgh Comedy Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "105": {
+        "answer": "Soho",
+        "category": "Music and Culture"
+    },
+    "106": {
+        "answer": "Pittsburgh Playhouse Garage",
+        "category": "General Info"
+    },
+    "107": {
+        "answer": "Pittsburgh Ballet Theatre",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "108": {
+        "answer": "August Wilson Center",
+        "category": "General Info"
+    },
+    "109": {
+        "answer": "Forbes Avenue",
+        "category": "Music and Culture"
+    },
+    "110": {
+        "answer": "Andrew Carnegie and Henry Clay Frick",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "111": {
+        "answer": "Daphne Koller",
+        "category": "General Info"
+    },
+    "112": {
+        "answer": "\"American Idiot\"",
+        "category": "Music and Culture"
+    },
+    "113": {
+        "answer": "Tim Rice",
+        "category": "Music and Culture"
+    },
+    "114": {
+        "answer": "Byham Theater",
+        "category": "Music and Culture"
+    },
+    "115": {
+        "answer": "Carnegie Mellon University",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "116": {
+        "answer": "\"Tommy\"",
+        "category": "Music and Culture"
+    },
+    "117": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "118": {
+        "answer": "Pittsburgh",
+        "category": "General Info"
+    },
+    "119": {
+        "answer": "The Strip District",
+        "category": "General Info"
+    },
+    "120": {
+        "answer": "<|end_of_document|>",
+        "category": "General Info"
+    },
+    "121": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "122": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "123": {
+        "answer": "Byham Theater",
+        "category": "Music and Culture"
+    },
+    "124": {
+        "answer": "Gioachino Rossini",
+        "category": "Music and Culture"
+    },
+    "125": {
+        "answer": "Pittsburgh Foundation",
+        "category": "General Info"
+    },
+    "126": {
+        "answer": "Pittsburgh Opera Club",
+        "category": "Music and Culture"
+    },
+    "127": {
+        "answer": "\"Viva Cuba\"",
+        "category": "General Info"
+    },
+    "128": {
+        "answer": "The information regarding a specific recent project by Vania Evangelique is not available to me.",
+        "category": "General Info"
+    },
+    "129": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "130": {
+        "answer": "I don't know.",
+        "category": "General Info"
+    },
+    "131": {
+        "answer": "Pittsburgh",
+        "category": "Music and Culture"
+    },
+    "132": {
+        "answer": "Point State Park",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "133": {
+        "answer": "Department of Public Works",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "134": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "135": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "136": {
+        "answer": "The Strip District",
+        "category": "General Info"
+    },
+    "137": {
+        "answer": "Steel City Roller Girls",
+        "category": "Sports"
+    },
+    "138": {
+        "answer": "Pittsburgh Women's Small Business Initiative",
+        "category": "General Info"
+    },
+    "139": {
+        "answer": "Greenlight Bookstore",
+        "category": "General Info"
+    },
+    "140": {
+        "answer": "La Isla",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "141": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "142": {
+        "answer": "Heinz History Center",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "143": {
+        "answer": "37",
+        "category": "General Info"
+    },
+    "144": {
+        "answer": "Louis Kahn",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "145": {
+        "answer": "Heinz History Center",
+        "category": "General Info"
+    },
+    "146": {
+        "answer": "Carnegie Museum",
+        "category": "General Info"
+    },
+    "147": {
+        "answer": "Over 50",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "148": {
+        "answer": "pittsburghpirates.com",
+        "category": "Sports"
+    },
+    "149": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "150": {
+        "answer": "Pittsburgh's PNC Park",
+        "category": "Sports"
+    },
+    "151": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "152": {
+        "answer": "Pirates Prospects List",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "153": {
+        "answer": "Downtown Great Race",
+        "category": "Sports"
+    },
+    "154": {
+        "answer": "Downtown Partnership",
+        "category": "General Info"
+    },
+    "155": {
+        "answer": "St. Patrick's Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "156": {
+        "answer": "Pittsburgh Parade Day Dash",
+        "category": "Sports"
+    },
+    "157": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "158": {
+        "answer": "Heinz History Ball",
+        "category": "General Info"
+    },
+    "159": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "160": {
+        "answer": "Heinz History Center",
+        "category": "General Info"
+    },
+    "161": {
+        "answer": "The Restaurant Group",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "162": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "163": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "164": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "165": {
+        "answer": "Carnegie Science Center",
+        "category": "General Info"
+    },
+    "166": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "167": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "168": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "169": {
+        "answer": "PNC Park",
+        "category": "Sports"
+    },
+    "170": {
+        "answer": "Steel City Sports Fest",
+        "category": "Sports"
+    },
+    "171": {
+        "answer": "> Mark Kozlowski",
+        "category": "Sports"
+    },
+    "172": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "173": {
+        "answer": "1000 Liberty Avenue",
+        "category": "General Info"
+    },
+    "174": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "175": {
+        "answer": "Pittsburgh Cultural Trust",
+        "category": "Music and Culture"
+    },
+    "176": {
+        "answer": "(212) 255-7001",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "177": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "178": {
+        "answer": "Carnegie Mellon University",
+        "category": "Music and Culture"
+    },
+    "179": {
+        "answer": "Pittsburgh Filmmakers",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "180": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "181": {
+        "answer": "The Ghost Club",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "182": {
+        "answer": "Mario Elie",
+        "category": "Sports"
+    },
+    "183": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "184": {
+        "answer": "15",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "185": {
+        "answer": "Student Trustee",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "186": {
+        "answer": "Andrew Carnegie Society Representative",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "187": {
+        "answer": "As of my last update, I don\u2019t have access to real-time data and specific names like current",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "188": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "189": {
+        "answer": "Pittsburgh Book Festival",
+        "category": "General Info"
+    },
+    "190": {
+        "answer": "\"Shadow Game\"",
+        "category": "General Info"
+    },
+    "191": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "192": {
+        "answer": "City Lights Booksellers & Publishers",
+        "category": "General Info"
+    },
+    "193": {
+        "answer": "Two",
+        "category": "Music and Culture"
+    },
+    "194": {
+        "answer": "The Andy Warhol Museum",
+        "category": "General Info"
+    },
+    "195": {
+        "answer": "<|repo_name|>joshuadavis/qa-pittsburgh-cmu<|",
+        "category": "General Info"
+    },
+    "196": {
+        "answer": "<|end_of_document|>",
+        "category": "General Info"
+    },
+    "197": {
+        "answer": "Andrew Carnegie",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "198": {
+        "answer": "Frick Fine Arts Building",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "199": {
+        "answer": "Pittsburgh Music Festival",
+        "category": "General Info"
+    },
+    "200": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "201": {
+        "answer": "Timmy Turner",
+        "category": "General Info"
+    },
+    "202": {
+        "answer": "Mayor Peduto",
+        "category": "General Info"
+    },
+    "203": {
+        "answer": "(617) 235-7529",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "204": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "205": {
+        "answer": "Pittsburgh Today & Tomorrow",
+        "category": "Music and Culture"
+    },
+    "206": {
+        "answer": "1001 Liberty Avenue",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "207": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "208": {
+        "answer": "Pittsburgh Oktoberfest",
+        "category": "General Info"
+    },
+    "209": {
+        "answer": "Tops On The Town",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "210": {
+        "answer": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "211": {
+        "answer": "Gallery Film Series",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "212": {
+        "answer": "<|repo_name|>joshuadickerson/qa-pittsburgh-cmu<",
+        "category": "Music and Culture"
+    },
+    "213": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "214": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "215": {
+        "answer": "Steelers Accounting Academy",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "216": {
+        "answer": "T.J. Watt",
+        "category": "Sports"
+    },
+    "217": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "218": {
+        "answer": "Pittsburgh Civic Arena",
+        "category": "Sports"
+    },
+    "219": {
+        "answer": "Pittsburgh Public Square",
+        "category": "General Info"
+    },
+    "220": {
+        "answer": "Downtown Partnership",
+        "category": "General Info"
+    },
+    "221": {
+        "answer": "Fifth Avenue",
+        "category": "General Info"
+    },
+    "222": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "223": {
+        "answer": "Pittsburgh Penguins",
+        "category": "Sports"
+    },
+    "224": {
+        "answer": "Liberty Avenue",
+        "category": "General Info"
+    },
+    "225": {
+        "answer": "St. Louis Blues",
+        "category": "Sports"
+    },
+    "226": {
+        "answer": "Pittsburgh",
+        "category": "Music and Culture"
+    },
+    "227": {
+        "answer": "Mike Sullivan",
+        "category": "Sports"
+    },
+    "228": {
+        "answer": "According to data from the Substance Abuse and Mental Health Services Administration's National Survey on Drug Use and Health",
+        "category": "General Info"
+    },
+    "229": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "230": {
+        "answer": "The Last Thing He Told Me",
+        "category": "General Info"
+    },
+    "231": {
+        "answer": "Eric's Enchanted Evening",
+        "category": "General Info"
+    },
+    "232": {
+        "answer": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
+        "category": "Music and Culture"
+    },
+    "233": {
+        "answer": "1771",
+        "category": "Music and Culture"
+    },
+    "234": {
+        "answer": "<|repo_name|>joshuadickerson/qa-pittsburgh-cmu<",
+        "category": "General Info"
+    },
+    "235": {
+        "answer": "Pittsburgh Opera",
+        "category": "Music and Culture"
+    },
+    "236": {
+        "answer": "> I don't know.",
+        "category": "Music and Culture"
+    },
+    "237": {
+        "answer": "> Mark DeChiazza",
+        "category": "Music and Culture"
+    },
+    "238": {
+        "answer": "myaccount.cmu.edu",
+        "category": "General Info"
+    },
+    "239": {
+        "answer": "Report Suspicious Activity",
+        "category": "General Info"
+    },
+    "240": {
+        "answer": "Error",
+        "category": "General Info"
+    },
+    "241": {
+        "answer": "Carnegie Learning",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "242": {
+        "answer": "Carnegie Mellon ID Reset",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "243": {
+        "answer": "September 25, 1758",
+        "category": "General Info"
+    },
+    "244": {
+        "answer": "Fort Duquesne",
+        "category": "General Info"
+    },
+    "245": {
+        "answer": "General John Forbes",
+        "category": "General Info"
+    },
+    "246": {
+        "answer": "Forbes Road",
+        "category": "General Info"
+    },
+    "247": {
+        "answer": "William Pitt",
+        "category": "General Info"
+    },
+    "248": {
+        "answer": "Fort Duquesne Bridge",
+        "category": "General Info"
+    },
+    "249": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "250": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "251": {
+        "answer": "Pittsburgh",
+        "category": "Music and Culture"
+    },
+    "252": {
+        "answer": "Pittsburgh Campus",
+        "category": "General Info"
+    },
+    "253": {
+        "answer": "Three Rivers Arts Festival",
+        "category": "Music and Culture"
+    },
+    "254": {
+        "answer": "Andy Warhol Museum",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "255": {
+        "answer": "Early 19th century",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "256": {
+        "answer": "Heinz Hall",
+        "category": "Music and Culture"
+    },
+    "257": {
+        "answer": "<|repo_name|>joshuadavis/qa-data-pittsburgh-cmu<",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "258": {
+        "answer": "<|end_of_document|>",
+        "category": "General Info"
+    },
+    "259": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "260": {
+        "answer": "2008",
+        "category": "Sports"
+    },
+    "261": {
+        "answer": "Aviva Stadium",
+        "category": "Sports"
+    },
+    "262": {
+        "answer": "Dan Rooney",
+        "category": "Sports"
+    },
+    "263": {
+        "answer": "Irish America",
+        "category": "Sports"
+    },
+    "264": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "265": {
+        "answer": "Acrisure Club Level",
+        "category": "Sports"
+    },
+    "266": {
+        "answer": "Acrisure Fan Zone",
+        "category": "Sports"
+    },
+    "267": {
+        "answer": "Clear plastic/glass bags up to 12\" x 6\"",
+        "category": "Sports"
+    },
+    "268": {
+        "answer": "Pittsburgh Steelers and Pittsburgh Panthers",
+        "category": "Sports"
+    },
+    "269": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "270": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "271": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "272": {
+        "answer": "Carnegie Connections",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "273": {
+        "answer": "Carnegie Mellon Advancement",
+        "category": "General Info"
+    },
+    "274": {
+        "answer": "Heinz Hall",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "275": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "276": {
+        "answer": "Heinz Hall",
+        "category": "Music and Culture"
+    },
+    "277": {
+        "answer": "Shady Side Academy",
+        "category": "Music and Culture"
+    },
+    "278": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "279": {
+        "answer": "Heinz Hall",
+        "category": "Music and Culture"
+    },
+    "280": {
+        "answer": "Nederlander Organization",
+        "category": "Music and Culture"
+    },
+    "281": {
+        "answer": "The First Musical",
+        "category": "Music and Culture"
+    },
+    "282": {
+        "answer": "August Wilson Center",
+        "category": "Music and Culture"
+    },
+    "283": {
+        "answer": "1900",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "284": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "285": {
+        "answer": "Liberty Magic Fund",
+        "category": "Sports"
+    },
+    "286": {
+        "answer": "Magic News",
+        "category": "General Info"
+    },
+    "287": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "288": {
+        "answer": "James Kenney",
+        "category": "General Info"
+    },
+    "289": {
+        "answer": "Fort Duquesne Bridge",
+        "category": "General Info"
+    },
+    "290": {
+        "answer": "Heinz History Center Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "291": {
+        "answer": "1974",
+        "category": "General Info"
+    },
+    "292": {
+        "answer": "Andrew Carnegie and Henry Clay Frick",
+        "category": "General Info"
+    },
+    "293": {
+        "answer": "Nittany Lions",
+        "category": "Sports"
+    },
+    "294": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "295": {
+        "answer": "Heinz History Center",
+        "category": "General Info"
+    },
+    "296": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "297": {
+        "answer": "Reince Priebus",
+        "category": "General Info"
+    },
+    "298": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "299": {
+        "answer": "Andrew Carnegie and Henry Clay Frick",
+        "category": "Music and Culture"
+    },
+    "300": {
+        "answer": "Three Rivers Arts Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "301": {
+        "answer": "Pittsburgh International LGBTQ+ Film Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "302": {
+        "answer": "PNC Financial Center",
+        "category": "General Info"
+    },
+    "303": {
+        "answer": "The Cranberries",
+        "category": "Music and Culture"
+    },
+    "304": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "305": {
+        "answer": "Pittsburgh Rodents",
+        "category": "General Info"
+    },
+    "306": {
+        "answer": "Twice a year",
+        "category": "General Info"
+    },
+    "307": {
+        "answer": "Residents and businesses",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "308": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "General Info"
+    },
+    "309": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "General Info"
+    },
+    "310": {
+        "answer": "Pittsburgh Post-Gazette",
+        "category": "General Info"
+    },
+    "311": {
+        "answer": "Three",
+        "category": "General Info"
+    },
+    "312": {
+        "answer": "Approximately 20 acres",
+        "category": "General Info"
+    },
+    "313": {
+        "answer": "Less than a mile",
+        "category": "Music and Culture"
+    },
+    "314": {
+        "answer": "Pittsburgh International Airport",
+        "category": "Music and Culture"
+    },
+    "315": {
+        "answer": "<|end_of_document|>",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "316": {
+        "answer": "Pittsburgh's South Side",
+        "category": "General Info"
+    },
+    "317": {
+        "answer": "\"Girls Gone Dead\"",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "318": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "319": {
+        "answer": "Northside Tech Fair",
+        "category": "General Info"
+    },
+    "320": {
+        "answer": "St Paul's Episcopal Church",
+        "category": "General Info"
+    },
+    "321": {
+        "answer": "Free",
+        "category": "General Info"
+    },
+    "322": {
+        "answer": "Fifth Avenue",
+        "category": "General Info"
+    },
+    "323": {
+        "answer": "2009",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "324": {
+        "answer": "St. Ursula's Parish Hall",
+        "category": "General Info"
+    },
+    "325": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "326": {
+        "answer": "Carnegie Institute of Technology",
+        "category": "General Info"
+    },
+    "327": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "328": {
+        "answer": "AFL-CIO",
+        "category": "General Info"
+    },
+    "329": {
+        "answer": "Sweeney",
+        "category": "Sports"
+    },
+    "330": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "331": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "332": {
+        "answer": "Dr. Andrew Weil",
+        "category": "General Info"
+    },
+    "333": {
+        "answer": "$10",
+        "category": "General Info"
+    },
+    "334": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "335": {
+        "answer": "Pittsburgh Penguins' new arena",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "336": {
+        "answer": "PPG Paints Arena",
+        "category": "Sports"
+    },
+    "337": {
+        "answer": "Pittsburgh Civic Light Opera",
+        "category": "General Info"
+    },
+    "338": {
+        "answer": "2008",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "339": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "340": {
+        "answer": "Friendship Community Garden",
+        "category": "General Info"
+    },
+    "341": {
+        "answer": "Squirrel Hill",
+        "category": "Music and Culture"
+    },
+    "342": {
+        "answer": "Pittsburgh Food Policy Council",
+        "category": "General Info"
+    },
+    "343": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "344": {
+        "answer": "Alec Gershon",
+        "category": "General Info"
+    },
+    "345": {
+        "answer": "The Cultural District",
+        "category": "General Info"
+    },
+    "346": {
+        "answer": "Byham Theater",
+        "category": "Music and Culture"
+    },
+    "347": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "348": {
+        "answer": "Byham Theater",
+        "category": "Music and Culture"
+    },
+    "349": {
+        "answer": "$25 per person",
+        "category": "Sports"
+    },
+    "350": {
+        "answer": "Pittsburgh Cultural Trust",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "351": {
+        "answer": "New Year's Eve Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "352": {
+        "answer": "Carnegie Mellon University",
+        "category": "Music and Culture"
+    },
+    "353": {
+        "answer": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
+        "category": "General Info"
+    },
+    "354": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "355": {
+        "answer": "Pittsburgh Lacrosse Club",
+        "category": "Sports"
+    },
+    "356": {
+        "answer": "<|repo_name|>jamesr66/qa-pittsburgh-cmu<|file",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "357": {
+        "answer": "The Mattress Factory",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "358": {
+        "answer": "1891",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "359": {
+        "answer": "Pride and perseverance.",
+        "category": "General Info"
+    },
+    "360": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "361": {
+        "answer": "Monongahela and Allegheny rivers",
+        "category": "General Info"
+    },
+    "362": {
+        "answer": "William Penn",
+        "category": "General Info"
+    },
+    "363": {
+        "answer": "Pittsburgh Renaissance Fund",
+        "category": "General Info"
+    },
+    "364": {
+        "answer": "Pittsburgh's Dine Outdoors Grant",
+        "category": "General Info"
+    },
+    "365": {
+        "answer": "$50,000",
+        "category": "General Info"
+    },
+    "366": {
+        "answer": "Pittsburgh Storefront Improvement Program",
+        "category": "General Info"
+    },
+    "367": {
+        "answer": "> Mark Sivak",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "368": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "369": {
+        "answer": "<|repo_name|>jamesmthompson/qa-pittsburgh-cmu<|",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "370": {
+        "answer": "September 2023",
+        "category": "General Info"
+    },
+    "371": {
+        "answer": "Bob and Joan Kamin Family Foundation",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "372": {
+        "answer": "I don't know.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "373": {
+        "answer": "Whoopie pie",
+        "category": "General Info"
+    },
+    "374": {
+        "answer": "Pittsburgh",
+        "category": "General Info"
+    },
+    "375": {
+        "answer": "Banana Split Festival",
+        "category": "General Info"
+    },
+    "376": {
+        "answer": "Since 1951",
+        "category": "Music and Culture"
+    },
+    "377": {
+        "answer": "Thon",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "378": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "379": {
+        "answer": "Assistant Professor Luis von Ahn",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "380": {
+        "answer": "Heinz Memorial Chapel",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "381": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "382": {
+        "answer": "Pittsburgh's Oakland neighborhood",
+        "category": "Music and Culture"
+    },
+    "383": {
+        "answer": "",
+        "category": "Music and Culture"
+    },
+    "384": {
+        "answer": "Byham Theater",
+        "category": "Music and Culture"
+    },
+    "385": {
+        "answer": "October 14",
+        "category": "Music and Culture"
+    },
+    "386": {
+        "answer": "Pittsburgh City Hall",
+        "category": "General Info"
+    },
+    "387": {
+        "answer": "1971",
+        "category": "General Info"
+    },
+    "388": {
+        "answer": "<|end_of_document|>",
+        "category": "General Info"
+    },
+    "389": {
+        "answer": "Pittsburgh Plaza",
+        "category": "General Info"
+    },
+    "390": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "391": {
+        "answer": "Pittsburgh",
+        "category": "Sports"
+    },
+    "392": {
+        "answer": "Banana Split Festival",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "393": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "394": {
+        "answer": "Gavin Keefe",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "395": {
+        "answer": "Banana Festival",
+        "category": "Sports"
+    },
+    "396": {
+        "answer": "Office of Public Safety",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "397": {
+        "answer": "Gainey's Vision",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "398": {
+        "answer": "<|repo_name|>jamesr66/qa_pittsburgh_cmu<|file",
+        "category": "General Info"
+    },
+    "399": {
+        "answer": "Pittsburgh's Cure Violence Program",
+        "category": "General Info"
+    },
+    "400": {
+        "answer": "stopviolence@pittsburghpa.gov",
+        "category": "General Info"
+    },
+    "401": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "402": {
+        "answer": "March 2023",
+        "category": "General Info"
+    },
+    "403": {
+        "answer": "I don't know.",
+        "category": "Music and Culture"
+    },
+    "404": {
+        "answer": "Jessie Sage",
+        "category": "Music and Culture"
+    },
+    "405": {
+        "answer": "The Coffee Bar",
+        "category": "General Info"
+    },
+    "406": {
+        "answer": "",
+        "category": "Sports"
+    },
+    "407": {
+        "answer": "Up to three additional tickets",
+        "category": "Sports"
+    },
+    "408": {
+        "answer": "$1,000",
+        "category": "Sports"
+    },
+    "409": {
+        "answer": "Licensed seats have assigned seating with guaranteed access to events.",
+        "category": "Sports"
+    },
+    "410": {
+        "answer": "Bureau of Economic Analysis",
+        "category": "General Info"
+    },
+    "411": {
+        "answer": "Bureau of Economic Analysis",
+        "category": "General Info"
+    },
+    "412": {
+        "answer": "Pittsburgh",
+        "category": "General Info"
+    },
+    "413": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "414": {
+        "answer": "Pittsburgh Business Cycle Index",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "415": {
+        "answer": "Three Rivers Arts Festival",
+        "category": "Music and Culture"
+    },
+    "416": {
+        "answer": "I don't know.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "417": {
+        "answer": "Pittsburgh Regional Transit Authority",
+        "category": "General Info"
+    },
+    "418": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "419": {
+        "answer": "\"Comedy Night Live\"",
+        "category": "General Info"
+    },
+    "420": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "421": {
+        "answer": "Carnegie Museum of Art",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "422": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "423": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "424": {
+        "answer": "Steelers Football Camp",
+        "category": "Sports"
+    },
+    "425": {
+        "answer": "$150 per session",
+        "category": "Sports"
+    },
+    "426": {
+        "answer": "Approximately 20",
+        "category": "Sports"
+    },
+    "427": {
+        "answer": "Carnegie Mellon University",
+        "category": "Sports"
+    },
+    "428": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "429": {
+        "answer": "",
+        "category": "General Info"
+    },
+    "430": {
+        "answer": "Fifth Avenue",
+        "category": "General Info"
+    },
+    "431": {
+        "answer": "Pittsburgh",
+        "category": "General Info"
+    },
+    "432": {
+        "answer": "Pittsburgh",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "433": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "434": {
+        "answer": "",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "435": {
+        "answer": "",
+        "category": "General Info"
+    }
 }

@@ -1,7 +1,0 @@
-{
-  "test_qa_pairs_new_400_answers.json": {
-    "Exact Match": 35.86206896551724,
-    "F1 Score": 51.18069596644848,
-    "Recall": 51.10495895435045
-  }
-}

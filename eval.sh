@@ -10,5 +10,3 @@ python scripts/eval/evaluation_metrics.py \
   --output_dir test/eval_results \
 
 echo "Multi-comparison complete! Results saved to test/eval_results/"
-echo "Here's the summary:"
-cat test/eval_results/summary.txt

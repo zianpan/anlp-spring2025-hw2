@@ -1,32 +1,122 @@
 {
-    "1": "William Pitt",
-    "2": "ICML",
-    "3": "I don't know.",
-    "4": "Carnegie Mellon University",
-    "5": "Roberto Clemente Bridge",
-    "6": "Allegheny River",
-    "7": "Heinz Field",
-    "8": "Carnegie Mellon University",
-    "9": "Pittsburgh Restaurant Week",
-    "10": "Sullivan's Steakhouse",
-    "11": "Food and Dining Celebration",
-    "12": "McCormick & Schmick's Restaurant",
-    "13": "The context does not mention any restaurant offering a $38.21 dinner option.",
-    "14": "Free Childcare Program",
-    "15": "Priya Amin",
-    "16": "Richard King Mellon Foundation",
-    "17": "La Traviata",
-    "18": "two to twelve",
-    "19": "I don't know.",
-    "20": "Interstate 376",
-    "21": "New Castle",
-    "22": "New Castle",
-    "23": "Mercer County",
-    "24": "Carnegie Mellon University",
-    "25": "The context doesn't mention any event related to Cinderella's Erica Messonnier's takeover.",
-    "26": "Wood Street",
-    "27": "Concordia Theater",
-    "28": "Point Park University",
-    "29": "Pittsburgh Public Theatre",
-    "30": "Carnegie Mellon University"
+    "1": {
+        "answer": "William Pitt",
+        "category": "General Info"
+    },
+    "2": {
+        "answer": "ICML",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "3": {
+        "answer": "I don't know.",
+        "category": "Music and Culture"
+    },
+    "4": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "5": {
+        "answer": "Roberto Clemente Bridge",
+        "category": "General Info"
+    },
+    "6": {
+        "answer": "Allegheny River",
+        "category": "General Info"
+    },
+    "7": {
+        "answer": "Heinz Field",
+        "category": "Sports"
+    },
+    "8": {
+        "answer": "Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "9": {
+        "answer": "Pittsburgh Restaurant Week",
+        "category": "General Info"
+    },
+    "10": {
+        "answer": "Sullivan's Steakhouse",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "11": {
+        "answer": "Food and Dining Celebration",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "12": {
+        "answer": "McCormick & Schmick's Restaurant",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "13": {
+        "answer": "The context does not mention any restaurant offering a $38.21 dinner option.",
+        "category": "General Info"
+    },
+    "14": {
+        "answer": "Free Childcare Program",
+        "category": "Music and Culture"
+    },
+    "15": {
+        "answer": "Priya Amin",
+        "category": "Music and Culture"
+    },
+    "16": {
+        "answer": "Richard King Mellon Foundation",
+        "category": "Music and Culture"
+    },
+    "17": {
+        "answer": "La Traviata",
+        "category": "Music and Culture"
+    },
+    "18": {
+        "answer": "two to twelve",
+        "category": "Music and Culture"
+    },
+    "19": {
+        "answer": "I don't know.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "20": {
+        "answer": "Interstate 376",
+        "category": "General Info"
+    },
+    "21": {
+        "answer": "New Castle",
+        "category": "General Info"
+    },
+    "22": {
+        "answer": "New Castle",
+        "category": "General Info"
+    },
+    "23": {
+        "answer": "Mercer County",
+        "category": "General Info"
+    },
+    "24": {
+        "answer": "Carnegie Mellon University",
+        "category": "Sports"
+    },
+    "25": {
+        "answer": "The context doesn't mention any event related to Cinderella's Erica Messonnier's takeover.",
+        "category": "Music and Culture"
+    },
+    "26": {
+        "answer": "Wood Street",
+        "category": "Music and Culture"
+    },
+    "27": {
+        "answer": "Concordia Theater",
+        "category": "Music and Culture"
+    },
+    "28": {
+        "answer": "Point Park University",
+        "category": "Music and Culture"
+    },
+    "29": {
+        "answer": "Pittsburgh Public Theatre",
+        "category": "Music and Culture"
+    },
+    "30": {
+        "answer": "Carnegie Mellon University",
+        "category": "Music and Culture"
+    }
 }

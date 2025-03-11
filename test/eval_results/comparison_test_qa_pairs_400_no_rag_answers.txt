@@ -1,7 +1,0 @@
-{
-  "test_qa_pairs_400_no_rag_answers.json": {
-    "Exact Match": 14.022988505747126,
-    "F1 Score": 25.13274285796696,
-    "Recall": 25.753862995242304
-  }
-}

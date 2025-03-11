@@ -3,17 +3,20 @@ import json
 import os
 import argparse
 
-def convert_csv_to_json(csv_string, column_name):
+def convert_csv_to_json(csv_string, column_name, category_column_name):
     csv_reader = csv.reader(csv_string.strip().split('\n'))
     headers = next(csv_reader)
     
     target_column_index = headers.index(column_name)
-    
+    category_column_index = headers.index(category_column_name)
     result_dict = {}
     
     for i, row in enumerate(csv_reader, 1):
         if len(row) > target_column_index:
-            result_dict[str(i)] = row[target_column_index]
+            result_dict[str(i)] = {
+                "answer": row[target_column_index],
+                "category": row[category_column_index]
+            }
     
     return json.dumps(result_dict, indent=4)
 
@@ -33,12 +36,12 @@ if __name__ == "__main__":
     
     base_filename = os.path.splitext(os.path.basename(args.csv_file))[0]
     
-    answer_json = convert_csv_to_json(csv_data, 'answer')
+    answer_json = convert_csv_to_json(csv_data, 'answer', 'category')
     answer_output_path = os.path.join(args.output_dir, f"{base_filename}_answers.json")
     with open(answer_output_path, 'w') as f:
         f.write(answer_json)
     
-    reference_json = convert_csv_to_json(csv_data, 'reference_answer')
+    reference_json = convert_csv_to_json(csv_data, 'reference_answer', 'category')
     reference_output_path = os.path.join(args.reference_dir, f"{base_filename}_answers.json")
     with open(reference_output_path, 'w') as f:
         f.write(reference_json)
