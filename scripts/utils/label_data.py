@@ -2,6 +2,7 @@ import pandas as pd
 from transformers import pipeline
 import torch
 import os
+from tqdm import tqdm
 
 os.chdir("..")
 os.chdir("..")
@@ -30,11 +31,11 @@ def classify_question(question):
         print(f"Error processing question: {question}\nException: {e}")
         return "Others"
 
-results_directory = "results/"
-output_directory = "results/labeled/"
-os.makedirs(output_directory, exist_ok=True)
+results_directory = "/home/ubuntu/project/results/"
+output_directory = "/home/ubuntu/project/results/labeled/"
+# os.makedirs(output_directory, exist_ok=True)
 
-for filename in os.listdir(results_directory):
+for filename in tqdm(os.listdir(results_directory)):
     if filename.endswith(".csv"):
         file_path = os.path.join(results_directory, filename)
         

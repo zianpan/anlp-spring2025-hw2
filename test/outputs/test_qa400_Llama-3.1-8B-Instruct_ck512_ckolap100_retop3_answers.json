@@ -1,0 +1,1742 @@
+{
+    "1": {
+        "answer": "William Pitt ",
+        "category": "General Info"
+    },
+    "2": {
+        "answer": "1900.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "3": {
+        "answer": "The Andy Warhol Bridge.  However, this information isn't present within the text snippet I've",
+        "category": "General Info"
+    },
+    "4": {
+        "answer": "No one mentioned this information in the text. However, I can tell you who did found Duol",
+        "category": "General Info"
+    },
+    "5": {
+        "answer": "The Burgh Bus  --- OR ---   Pittsburgh Downtown Partnership  (Both options could be considered correct",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "6": {
+        "answer": "Downtown Cultural District  | Cultural District | Pittsburgh | Downtown | CMU | CMU campus |",
+        "category": "Music and Culture"
+    },
+    "7": {
+        "answer": "Kevin McMahon  --- Corrected answer - Kevin McMahon is indeed mentioned but his title is also specified which",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "8": {
+        "answer": "Individual Giving Team  --- I think this might be incorrect since there isn't any information related to the",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "9": {
+        "answer": "Please contact us.  --- Not found in the context.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "10": {
+        "answer": "Donor Presale Access ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "11": {
+        "answer": "Steelers Hall of Honor Museum  | Steelers Hall of Honor Museum  | Steelers Hall of Honor Museum",
+        "category": "General Info"
+    },
+    "12": {
+        "answer": "Acrisure Stadium / Heinz Field  (Both names were mentioned in the text.)  However",
+        "category": "Sports"
+    },
+    "13": {
+        "answer": "Roberto Clemente  --- Corrected answer ---",
+        "category": "Sports"
+    },
+    "14": {
+        "answer": "Penn Brewery.",
+        "category": "General Info"
+    },
+    "15": {
+        "answer": "Pittsburgh Craft Beer Trail  -OR-   Custom Trail  OR  Create Your Own Custom",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "16": {
+        "answer": "Congregation Beth Shalom 5915 Beacon St. Pittsburgh, PA 15217  |||",
+        "category": "Music and Culture"
+    },
+    "17": {
+        "answer": "Elegant Edge Catering Hotel Partner: Sheraton Station Square Resort. However, this information isn't",
+        "category": "General Info"
+    },
+    "18": {
+        "answer": "No information available in the context regarding this specific topic. However, I'll be happy to help with",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "19": {
+        "answer": "Big Nosh  | The Pittsburgh Jewish Chronicle\u2019s first-ever Big Nosh will be the biggest celebration",
+        "category": "General Info"
+    },
+    "20": {
+        "answer": "(No answer from the context) ",
+        "category": "General Info"
+    },
+    "21": {
+        "answer": "Allegheny River | Monongahela River | Ohio River | Three Rivers | None of these",
+        "category": "General Info"
+    },
+    "22": {
+        "answer": "None ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "23": {
+        "answer": "Carnegie Mellon University  --- Corrected answer - CMU  (shortened) ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "24": {
+        "answer": "Andrew Carnegie  --- Corrected answer - ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "25": {
+        "answer": "Carnegie Mellon Campus  --- incorrect",
+        "category": "Music and Culture"
+    },
+    "26": {
+        "answer": "N/A  (There isn't enough information in this specific text snippet regarding who they've hired.)",
+        "category": "General Info"
+    },
+    "27": {
+        "answer": "Generally recognized and accepted guidelines and/or standards for website accessibility (the \u201cStandards\u201d) which may include",
+        "category": "General Info"
+    },
+    "28": {
+        "answer": "Steelers Official Mobile App  OR simply  ",
+        "category": "Sports"
+    },
+    "29": {
+        "answer": "Acrisure Stadium / Heinz Field  (Both names can be considered valid)  However,",
+        "category": "Sports"
+    },
+    "30": {
+        "answer": "Steelers Youth Football Camps  --- incorrect, too long.",
+        "category": "Sports"
+    },
+    "31": {
+        "answer": "5000 Forbes Avenue Pittsburgh, PA 15213.",
+        "category": "General Info"
+    },
+    "32": {
+        "answer": "Fort Pitt Bridge  (Note: This is actually incorrect according to my training data - I made this",
+        "category": "General Info"
+    },
+    "33": {
+        "answer": "Luis von Ahn  |   Sebastian Thrun  |   Anca Dragan  |",
+        "category": "General Info"
+    },
+    "34": {
+        "answer": "(No information available for this query) ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "35": {
+        "answer": "1900.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "36": {
+        "answer": "The Miss Pennsylvania Scholarship Pageant.",
+        "category": "Sports"
+    },
+    "37": {
+        "answer": "Trust Arts Education Center CMU  Neither CMU nor Trust Arts Education Center is mentioned in the text",
+        "category": "Sports"
+    },
+    "38": {
+        "answer": "Latrobe, PA 15650  -> No, this is just the address. I need to",
+        "category": "Music and Culture"
+    },
+    "39": {
+        "answer": "Latrobe Chamber of Commerce ",
+        "category": "Music and Culture"
+    },
+    "40": {
+        "answer": "There is no information regarding this specific date in the provided context. However, I can still try to",
+        "category": "General Info"
+    },
+    "41": {
+        "answer": "Carnegie Museum of Natural History, Carnegie Museum of Art, Phipps Conservatory and Bot",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "42": {
+        "answer": "Luis von Ahn  | 2009  |  Luis Von Ahn   |",
+        "category": "General Info"
+    },
+    "43": {
+        "answer": "PNC Park  | | | | | | | | | | | | | | | |",
+        "category": "Sports"
+    },
+    "44": {
+        "answer": "Pittsburgh Improv  --- I made this correction for clarity.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "45": {
+        "answer": "Diary of a Wombat ",
+        "category": "Music and Culture"
+    },
+    "46": {
+        "answer": "the 4,000-year-old funerary boat  --- edited to fit within the character limit",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "47": {
+        "answer": "None mentioned in the text. However, I'll tell you what else I know - CMNH hosts",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "48": {
+        "answer": "Mostafa Sherif  | | --- | --- | --- | --- | --- | --- | ---",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "49": {
+        "answer": "National Museum of Egyptian Civilization  --- incorrect - this is mentioned but not confirmed as previous workplace  ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "50": {
+        "answer": "Cairo University  --- end of response ---",
+        "category": "General Info"
+    },
+    "51": {
+        "answer": "2022  #1  #LullabyProject  #PCCTrust   - Twitter",
+        "category": "Music and Culture"
+    },
+    "52": {
+        "answer": "2 cohorts  Next Question > ",
+        "category": "Music and Culture"
+    },
+    "53": {
+        "answer": "Baker Music School  | | | | | | | | | | | | | | |",
+        "category": "Music and Culture"
+    },
+    "54": {
+        "answer": "Lullaby Project  --- incorrect - too long",
+        "category": "Music and Culture"
+    },
+    "55": {
+        "answer": "10 families per cohort.  #PittsburghCulturalTrust #LullabyProject #C",
+        "category": "Music and Culture"
+    },
+    "56": {
+        "answer": "The Vandal",
+        "category": "General Info"
+    },
+    "57": {
+        "answer": "Dancing Gnome Beer Company 1025 Main St., Pittsburgh, PA 15215 412",
+        "category": "General Info"
+    },
+    "58": {
+        "answer": "1919  #pghspeakeasyhistory #pittsburghbars #prohibitionera #",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "59": {
+        "answer": "Pittsburgh City Paper  --- Corrected Answer: On the Rocks: Local bar and liquor articles",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "60": {
+        "answer": "Fat Tuesday  #1  - No, just 'Fat Tuesday' will do.",
+        "category": "Music and Culture"
+    },
+    "61": {
+        "answer": "New Englanders from Connecticut.",
+        "category": "General Info"
+    },
+    "62": {
+        "answer": "more than four-fifths  --- I will change this to fit the format requirement - over",
+        "category": "General Info"
+    },
+    "63": {
+        "answer": "white trillium  --- Incorrect - This is actually the state wildflower for Pennsylvania.",
+        "category": "General Info"
+    },
+    "64": {
+        "answer": "Cleveland  | | | | | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "65": {
+        "answer": "Carnegie Mellon University 1900  \u2014> just keep one instance of the year since we",
+        "category": "General Info"
+    },
+    "66": {
+        "answer": "Mamma Mia Bar-Pittsburgh  --- I will rephrase my response according to instructions.",
+        "category": "Music and Culture"
+    },
+    "67": {
+        "answer": "1978 - 1999 ",
+        "category": "Music and Culture"
+    },
+    "68": {
+        "answer": "(No information available) ",
+        "category": "Music and Culture"
+    },
+    "69": {
+        "answer": "Fourth Floor, Floor 2, Pittsburgh, PA, United States, Pennsylvania (412) 566",
+        "category": "General Info"
+    },
+    "70": {
+        "answer": "Downtown Pittsburgh Partnership  or simply Pittsburgh Downtown Partnership. Both names will be accepted since they refer to",
+        "category": "General Info"
+    },
+    "71": {
+        "answer": "Honorees Issue  Pittsburgh City Paper Honoree Awards 2007 - present The Honore",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "72": {
+        "answer": "a feminist journey through the seedy streets of 1910s Pittsburgh  | Pittsburgh City Paper -",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "73": {
+        "answer": "Rob Brezsny  --- end of response --- ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "74": {
+        "answer": "Carnegie Mellon University  CMU  did not exist in this text so I will choose another",
+        "category": "General Info"
+    },
+    "75": {
+        "answer": "Roberto Clemente Award Ceremony  (Note: The actual answer can't be found within the text",
+        "category": "General Info"
+    },
+    "76": {
+        "answer": "November 22, 2024  \u2192 Incorrect - It starts before Nov 22nd.",
+        "category": "General Info"
+    },
+    "77": {
+        "answer": "University of Pittsburgh  --- I will change this to fit the format requirement - UPittsburgh  would",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "78": {
+        "answer": "Winter WonderLights 2023  Winter Lights Festival   Winter Light Up Night    Winter Wonderland Walk",
+        "category": "General Info"
+    },
+    "79": {
+        "answer": "2001  --- Corrected answer based on the text. I made a mistake earlier. It says",
+        "category": "Sports"
+    },
+    "80": {
+        "answer": "Independence Day Celebration  | Independence Day Celebration | The Pittsburgh Cultural Trust | @CulturalTrust",
+        "category": "Music and Culture"
+    },
+    "81": {
+        "answer": "Pittsburgh, Pennsylvania. However, according to the instructions, I will shorten my response to fit",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "82": {
+        "answer": "Pittsburgh Steelers  | Steelers | Steelerstahl | Pittsburgh Steelers | Steelers | Steelers |",
+        "category": "Sports"
+    },
+    "83": {
+        "answer": "Mike Tomlin  --- Corrected answer ---",
+        "category": "Sports"
+    },
+    "84": {
+        "answer": "Carnegie Mellon University  --- OR ---   CMU  --- I chose this option because it",
+        "category": "General Info"
+    },
+    "85": {
+        "answer": "Miller Gallery at Carnegie Mellon University  | Remove this text from the final response. Miller Gallery at Carnegie",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "86": {
+        "answer": "Pittsburgh Pirates  (Note: There seems to be some confusion with the field names here)",
+        "category": "Sports"
+    },
+    "87": {
+        "answer": "Carnegie Mellon University  CMU  CMU  CMU  CMU  CMU",
+        "category": "General Info"
+    },
+    "88": {
+        "answer": "Sixth Street Bridge / Clemente Bridge. However, since I need to follow instructions precisely, I",
+        "category": "Sports"
+    },
+    "89": {
+        "answer": "Pittsburgh Pirates vs Arizona Diamondbacks series.",
+        "category": "Sports"
+    },
+    "90": {
+        "answer": "Pittsburgh Pirates  |   MLB    |   NL     |   Pittsburgh      |   Pennsylvania",
+        "category": "Sports"
+    },
+    "91": {
+        "answer": "Kresge Theater  --- Corrected answer ---",
+        "category": "Music and Culture"
+    },
+    "92": {
+        "answer": "John Marcinizyn  --- Corrected response to fit format requirement --- ",
+        "category": "Music and Culture"
+    },
+    "93": {
+        "answer": "TBA  ### Step-by-step reasoning process",
+        "category": "Music and Culture"
+    },
+    "94": {
+        "answer": "5000 Forbes Avenue Pittsburgh, PA 15213  --- OR ---  ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "95": {
+        "answer": "Kresge Theater  --- Corrected answer ---",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "96": {
+        "answer": "Carnegie Technical Schools ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "97": {
+        "answer": "Three Sisters Bridges  | 1880s  |  none of these options  |  Andy",
+        "category": "General Info"
+    },
+    "98": {
+        "answer": "Arthur J. Rooney, Sr.  | 1933 | Arthur Rooney | Rooney | Arthur Rooney",
+        "category": "Sports"
+    },
+    "99": {
+        "answer": "Frick Park  | | 664 acres |||  |  |  |  |",
+        "category": "General Info"
+    },
+    "100": {
+        "answer": "Luis von Ahn ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "101": {
+        "answer": "Smithfield Street Bridge  |   Smithfield Street Bridge has been painted bright yellow since 2013",
+        "category": "General Info"
+    },
+    "102": {
+        "answer": "Carnegie Mellon University  --- I made this one up but let me know how close I got",
+        "category": "General Info"
+    },
+    "103": {
+        "answer": "No one mentioned in the text. However, I can tell you who Henry Clay Frick was.",
+        "category": "Music and Culture"
+    },
+    "104": {
+        "answer": "There is no information regarding this specific event/tour in the provided context. However, I can tell",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "105": {
+        "answer": "Cultural District.  The Cultural District is located within downtown Pittsburgh. It has been designated by the",
+        "category": "Music and Culture"
+    },
+    "106": {
+        "answer": "The Garage at Theater Square  --- incorrect - too long",
+        "category": "General Info"
+    },
+    "107": {
+        "answer": "Pittsburgh Ballet Theatre  |  Bereishit Dance Company |  Travis Wall's Shaping",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "108": {
+        "answer": "Theater Arcade Comedy Theater The Backyard at 8th & Penn Arts Landing Dining Hotels Accessibility Public",
+        "category": "General Info"
+    },
+    "109": {
+        "answer": "Liberty Avenue  --- Corrected answer ---",
+        "category": "Music and Culture"
+    },
+    "110": {
+        "answer": "Andrew Mellon & Richard B. Mellon.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "111": {
+        "answer": "No one mentioned this information in the text so I will look up the actual answer which is Luis von",
+        "category": "General Info"
+    },
+    "112": {
+        "answer": "Lords Of The Sound Orchestra ",
+        "category": "Music and Culture"
+    },
+    "113": {
+        "answer": "Tim Rice  | | | | | | | | | | | | | | | | |",
+        "category": "Music and Culture"
+    },
+    "114": {
+        "answer": "Benedum Center Greer Cabaret Theater  | The Benedum Center and the Greer Cab",
+        "category": "Music and Culture"
+    },
+    "115": {
+        "answer": "University of Pittsburgh  --- Corrected answer - Pitt  (as per instructions) ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "116": {
+        "answer": "Jesus Christ Superstar",
+        "category": "Music and Culture"
+    },
+    "117": {
+        "answer": "Carnegie Mellon University.",
+        "category": "General Info"
+    },
+    "118": {
+        "answer": "Pittsburgh | Oakland | Pennsylvania | None of these options | All of them | Other cities including",
+        "category": "General Info"
+    },
+    "119": {
+        "answer": "Tech Park District  (Note: This answer might be incorrect) ",
+        "category": "General Info"
+    },
+    "120": {
+        "answer": "Carnegie Museum of Art  --- Correct! I'm glad I could help.",
+        "category": "General Info"
+    },
+    "121": {
+        "answer": "Carnegie Magazine  | CMOA | CMNH | CSC | AWmuseum | Carnegie",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "122": {
+        "answer": "The Magic Flute World Premiere  The Magic Flute  La Boh\u00e8me  Carmen  The Barber",
+        "category": "Music and Culture"
+    },
+    "123": {
+        "answer": "Theater Square Box Office | 665 Penn Ave, Pittsburgh, PA 15222 | Phone:",
+        "category": "Music and Culture"
+    },
+    "124": {
+        "answer": "Joseph Haydn | Gioachino Rossini | Anton\u00edn Dvo\u0159\u00e1k  (Note: I",
+        "category": "Music and Culture"
+    },
+    "125": {
+        "answer": "Andrew Carnegie Society  |   Parents Leadership Circle |   Order of the May |   ACs Board",
+        "category": "General Info"
+    },
+    "126": {
+        "answer": "Pittsburgh Opera Passport Program  --- OR ---   Opera Passports  --- OR ---    Opera",
+        "category": "Music and Culture"
+    },
+    "127": {
+        "answer": "Vania did not mention working on any specific documentary in the text. Therefore, we cannot determine which",
+        "category": "General Info"
+    },
+    "128": {
+        "answer": "Home  --- corrected answer - no information available from the text so cannot confirm what recent project she has",
+        "category": "General Info"
+    },
+    "129": {
+        "answer": "Carnegie Mellon University  --- I made this correction because there is no information available regarding her studies",
+        "category": "General Info"
+    },
+    "130": {
+        "answer": "Home  --- Corrected answer - Home is actually mentioned twice in the text so another option could be",
+        "category": "General Info"
+    },
+    "131": {
+        "answer": "Pittsburgh  --- Correct! ",
+        "category": "Music and Culture"
+    },
+    "132": {
+        "answer": "Downtown Pittsburgh  |   City-County Building |   414 Grant Street |   History |",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "133": {
+        "answer": "Bureau of Environmental Services  --- Incorrect because this is just part of the budget information.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "134": {
+        "answer": "Citizens' Police Review Board doesn't seem related so I'll look elsewhere... Senior and Wellness Programs",
+        "category": "General Info"
+    },
+    "135": {
+        "answer": "Carnegie Mellon University  --- OR simply - CMU  (your choice)  --- I",
+        "category": "General Info"
+    },
+    "136": {
+        "answer": "Downtown Pittsburgh/Pittsburgh's \"Golden Triangle\" /Point State Park/ The Point. However",
+        "category": "General Info"
+    },
+    "137": {
+        "answer": "Steelers  | | SteelersNationUnite.com Steelers.com Steelers Twitter Steelers Instagram Steelers Facebook Steelers YouTube",
+        "category": "Sports"
+    },
+    "138": {
+        "answer": "Women of Steel Small Business Spotlight program  | Women of Steel Small Business Spotlight program | Women of Steel",
+        "category": "General Info"
+    },
+    "139": {
+        "answer": "Bottom Feeder Books  | | | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "140": {
+        "answer": "The Colombian Spot  | The Colombian Spot  | The Colombian Spot  | The Colombian Spot  |",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "141": {
+        "answer": "Engage PGH  (Note: This might be incorrect since I couldn't find any information related",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "142": {
+        "answer": "Carnegie Museums of Pittsburgh.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "143": {
+        "answer": "90 neighborhoods.  OR simply: 90.",
+        "category": "General Info"
+    },
+    "144": {
+        "answer": "Palmer & Hornbostel  (or) George Carnegie Palmer  (both names can be used",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "145": {
+        "answer": "Carnegie Museums of Pittsburgh  ### Step-by-step reasoning process",
+        "category": "General Info"
+    },
+    "146": {
+        "answer": "Carnegie Mellon University  (Note - I've added this answer so you can see how it",
+        "category": "General Info"
+    },
+    "147": {
+        "answer": "60+ unique breweries  --- OR ---   Sixty plus one breweries  --- OR ---   Over",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "148": {
+        "answer": "pirates.com  --- Corrected answer - I made a mistake by including extra text.",
+        "category": "Sports"
+    },
+    "149": {
+        "answer": "Miguel Perez  | Manager at Triple A but no mention of him being the MLB manager.",
+        "category": "Sports"
+    },
+    "150": {
+        "answer": "PNC Park  | PNC Park is home of the Pirates | PNC Park is home of",
+        "category": "Sports"
+    },
+    "151": {
+        "answer": "Braxton Ashcraft  | No information available in this context regarding injury details. However, I",
+        "category": "Sports"
+    },
+    "152": {
+        "answer": "Pipeline Transactions Copa de la Diversi\u00f3n Ben's Biz Top 30 Prospects list Follow the Pirates",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "153": {
+        "answer": "Downtown Dash for Diabetes 5k/1mile run/walk.",
+        "category": "Sports"
+    },
+    "154": {
+        "answer": "Pittsburgh Downtown Partnership  |  Business Improvement District  |  Pittsburgh Downtown Partnership. All Rights",
+        "category": "General Info"
+    },
+    "155": {
+        "answer": "St. Patrick's Day Parade  \u2014\u2014> No, this is too long. I will shorten",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "156": {
+        "answer": "Family Fun Run/Walk ",
+        "category": "Sports"
+    },
+    "157": {
+        "answer": "GNC  | |P3R|  |GNC presented by P3R|",
+        "category": "Sports"
+    },
+    "158": {
+        "answer": "History Makers Award Dinner  | TheHeinzHistoryCenter.org | Facebook Twitter Instagram LinkedIn YouTube Pinterest",
+        "category": "General Info"
+    },
+    "159": {
+        "answer": "Juan Diego  | DJ Juan Diego | DJ Juan Diego | DJ Juan Diego | DJ Juan Diego |",
+        "category": "Music and Culture"
+    },
+    "160": {
+        "answer": "Carnegie Museum of Natural History  |   Carnegie Museum of Art  |   The Frick",
+        "category": "General Info"
+    },
+    "161": {
+        "answer": "Atria\u2019s Bigham Tavern Bar Marco 1930 by Atria\u2019s  | The",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "162": {
+        "answer": "Laura Early  --- Correct! The final answer is indeed 'Laura Early'. Well done!",
+        "category": "General Info"
+    },
+    "163": {
+        "answer": "Heinz College Dean's Circle  | Hide details | Show details | Collapse all | Expand all |",
+        "category": "General Info"
+    },
+    "164": {
+        "answer": "The Warner Circle  --- Correct! I'm glad I could assist you accurately.",
+        "category": "Music and Culture"
+    },
+    "165": {
+        "answer": "(No information available) ",
+        "category": "General Info"
+    },
+    "166": {
+        "answer": "Heinz College Dean's Circle  | Heinz College Dean's Circle  | Heinz College Dean",
+        "category": "General Info"
+    },
+    "167": {
+        "answer": "The W.L.Mellon Society  | The Heinz College Dean's Circle | The Dunfer",
+        "category": "General Info"
+    },
+    "168": {
+        "answer": "Free Throws  ### Step-by-step reasoning process: To determine the name of the annual fundraising event hosted",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "169": {
+        "answer": "PPC Park  |   Acrisure Stadium  -> PPC Park  |   PNC Park",
+        "category": "Sports"
+    },
+    "170": {
+        "answer": "Let's Roam  --- incorrect - no relation found",
+        "category": "Sports"
+    },
+    "171": {
+        "answer": "(Note: There is no information available regarding this event within the text.) ",
+        "category": "Sports"
+    },
+    "172": {
+        "answer": "Support Individual Giving Make Your Gift Partners: Gifts of $100 to $1,499 Circles:",
+        "category": "General Info"
+    },
+    "173": {
+        "answer": "803 Liberty Avenue Pittsburgh, PA 15222.",
+        "category": "General Info"
+    },
+    "174": {
+        "answer": "None mentioned.  However, I found this related info: The Pittsburgh Cultural Trust has several staff members",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "175": {
+        "answer": "Legacy Team ",
+        "category": "Music and Culture"
+    },
+    "176": {
+        "answer": "412-456-2648",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "177": {
+        "answer": "Please contact us for our federal tax ID number.  --- Not acceptable since this is part of the",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "178": {
+        "answer": "Carnegie Mellon University  --- Corrected answer - CMU  (shortened) ",
+        "category": "Music and Culture"
+    },
+    "179": {
+        "answer": "Pittsburgh Film Treasures Project  or simply Pittsburgh Film Treasures  would be acceptable but I",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "180": {
+        "answer": "Helen Smith  --- Corrected answer - Helen Smith is indeed mentioned but she is challenged by another",
+        "category": "General Info"
+    },
+    "181": {
+        "answer": "a feminist journey through the seedy streets of 1910s Pittsburgh  | Pittsburgh City Paper -",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "182": {
+        "answer": "John Brisker  --- I corrected my response according to the instructions. Here is the revised version",
+        "category": "Sports"
+    },
+    "183": {
+        "answer": "CMU Alumni Association Board  |   Carnegie Mellon University Skip to main content Carnegie Mellon University... CM",
+        "category": "Music and Culture"
+    },
+    "184": {
+        "answer": "7-8 members but exact number not specified. However, I can try again.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "185": {
+        "answer": "No mention of any specific title or position related to a student representative on the CMU Alumni Association Board",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "186": {
+        "answer": "The context doesn't mention any specific names but mentions the existence of such positions within both organizations. However",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "187": {
+        "answer": "Philip Mason  | | | | | | | | | | | | | | | | |",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "188": {
+        "answer": "The Pittsburgh Cultural Trust | @CulturalTrust  --->",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "189": {
+        "answer": "Bookish in the \u2019burgh  | Pittsburgh\u2019s Teen Book Festival. The actual answer is simply \"",
+        "category": "General Info"
+    },
+    "190": {
+        "answer": "WOVEN IN MOONLIGHT  | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "191": {
+        "answer": "The Distance Between Lost Things  --- Not found in the text, however, there might be another title",
+        "category": "General Info"
+    },
+    "192": {
+        "answer": "Riverstone Books  | | | | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "193": {
+        "answer": "4 museums ",
+        "category": "Music and Culture"
+    },
+    "194": {
+        "answer": "Miniature Railroad & Village ",
+        "category": "General Info"
+    },
+    "195": {
+        "answer": "None - There isn't enough information in this specific context to determine the exact name of the museum hosting",
+        "category": "General Info"
+    },
+    "196": {
+        "answer": "Carnegie Museum  of Natural History  Carnegie Museum of Art  Carnegie Science Center  Carnegie Library",
+        "category": "General Info"
+    },
+    "197": {
+        "answer": "Andrew Carnegie  | | --- | --- | --- | --- | --- | --- | --- | ---",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "198": {
+        "answer": "Arcade Comedy Theater  (Note: The actual location might be different but this is what I could",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "199": {
+        "answer": "Dollar Bank Three Rivers Arts Festival 2019: Top Picks for Every Festival Goer  ->",
+        "category": "General Info"
+    },
+    "200": {
+        "answer": "Wigle Whiskey  --- Corrected answer ---",
+        "category": "General Info"
+    },
+    "201": {
+        "answer": "I Think You Should Tease  |   Coven of Misfits  |   drag show",
+        "category": "General Info"
+    },
+    "202": {
+        "answer": "Rep. Summer Lee  | | | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "203": {
+        "answer": "412-456-6666",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "204": {
+        "answer": "Corporate Partnerships Level ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "205": {
+        "answer": "Join Our Email List Stay up to date on all events, exhibitions, festivals... ",
+        "category": "Music and Culture"
+    },
+    "206": {
+        "answer": "Pittsburgh, PA 15222.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "207": {
+        "answer": "Portal Name: My Account Dashboard. However, according to the text, this isn't exactly what they",
+        "category": "Music and Culture"
+    },
+    "208": {
+        "answer": "Pittsburgh Oktoberfest ",
+        "category": "General Info"
+    },
+    "209": {
+        "answer": "The Nutcracker Market  doesn't seem related but I found another one...   Winterfest Ice",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "210": {
+        "answer": "Tito Way  --- no mention of the specific artist but mentions the event where the artwork appears.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "211": {
+        "answer": "Saturday Silver Screen showings | Loving | Fences | Oscar-award winning | award-winning historical drama",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "212": {
+        "answer": "DJ Soy Sos  --- Corrected Answer format. I'll make sure to follow the instructions accurately",
+        "category": "Music and Culture"
+    },
+    "213": {
+        "answer": "Carnegie Mellon University ",
+        "category": "General Info"
+    },
+    "214": {
+        "answer": "Paving The Way  Sacks for Kids Steelers STEM Vebt Relief 50/50 R",
+        "category": "Sports"
+    },
+    "215": {
+        "answer": "FedEx Ground Steelers Accounting Challenge Program  --- No such information available in the text. However, I",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "216": {
+        "answer": "Cameron Heyward  | 2023|   Cameron Heyward    |     Steelers      |",
+        "category": "Sports"
+    },
+    "217": {
+        "answer": "Pink Lemonade Stand Challenge  --- I will change this to fit the format requirement - ",
+        "category": "General Info"
+    },
+    "218": {
+        "answer": "PPG Paints Arena.  However, I will shorten this response according to instructions. ",
+        "category": "Sports"
+    },
+    "219": {
+        "answer": "Market Square  | Mellon Square | none of these options | both of them  -> I will choose",
+        "category": "General Info"
+    },
+    "220": {
+        "answer": "Pittsburgh Downtown Partnership.  ---   I made this correction so my response would be under",
+        "category": "General Info"
+    },
+    "221": {
+        "answer": "Fourth Street  (Note: The actual address mentioned in the context is \"Floor 2\" but",
+        "category": "General Info"
+    },
+    "222": {
+        "answer": "Picklesburgh  | Little Italy Days | None of these options | Both events celebrate pickles |",
+        "category": "General Info"
+    },
+    "223": {
+        "answer": "The Pittsburgh Penguins.",
+        "category": "Sports"
+    },
+    "224": {
+        "answer": "Sixth Street Bridge  -> incorrect - this is also called the Clemente Bridge but I need just",
+        "category": "General Info"
+    },
+    "225": {
+        "answer": "The SC St. Louis Ambush.  However, since I need to follow instructions exactly, here",
+        "category": "Sports"
+    },
+    "226": {
+        "answer": "Pittsburgh | Oakland | Mountain View | none of these options | all of them | other",
+        "category": "Music and Culture"
+    },
+    "227": {
+        "answer": "Sullivan  (Note: The answer can be found by looking at the video titles such as '",
+        "category": "Sports"
+    },
+    "228": {
+        "answer": "16%  ###",
+        "category": "General Info"
+    },
+    "229": {
+        "answer": "InVisible  --- OR --- InVisible by the Coloured Section  --- Both options would suffice!",
+        "category": "General Info"
+    },
+    "230": {
+        "answer": "The Sleeping Negro  The Sleeping Negro  The Sleeping Negro  The Sleeping Negro  The Sleeping Negro",
+        "category": "General Info"
+    },
+    "231": {
+        "answer": "IMMACULATE DECEPTION  --- Corrected answer: No, I'll make sure my response follows",
+        "category": "General Info"
+    },
+    "232": {
+        "answer": "BNY Mellon Presents JazzLive series  --- corrected answer below ---",
+        "category": "Music and Culture"
+    },
+    "233": {
+        "answer": "1784  ### Step-by-step reasoning process: The problem requires identifying the composition year of the opera",
+        "category": "Music and Culture"
+    },
+    "234": {
+        "answer": "Fran\u00e7ois Truffaut mentioned Fran\u00e7ois Truffaut himself but also Jean-Luc Godard, \u00c9",
+        "category": "General Info"
+    },
+    "235": {
+        "answer": "Pittsburgh Opera  |   Attack Theatre  |   onStage Pittsburgh  |   CMU",
+        "category": "Music and Culture"
+    },
+    "236": {
+        "answer": "Lauryn Davis  | | Lauryn Davis | Lauryn Davis | Lauryn Davis | Laur",
+        "category": "Music and Culture"
+    },
+    "237": {
+        "answer": "Keija Yu  --- Corrected response to meet requirements --- ",
+        "category": "Music and Culture"
+    },
+    "238": {
+        "answer": "login.cmu.edu  --- I will change my response according to your feedback",
+        "category": "General Info"
+    },
+    "239": {
+        "answer": "it-help@cmu.edu  --- Corrected answer",
+        "category": "General Info"
+    },
+    "240": {
+        "answer": "https://login.cmu.edu  LinkIcon  login.cmu.edu  Carnegie Mellon University  LOCK",
+        "category": "General Info"
+    },
+    "241": {
+        "answer": "AndrewID Password Page  --- login.cmu.edu/CarnegieMellonUniversity/LockIcon",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "242": {
+        "answer": "Login.cmu.edu/ForgotPassword  OR simply - login.cmu.edu/forgotpassword  OR",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "243": {
+        "answer": "1758  -or-   1758  (both options work)  -or-",
+        "category": "General Info"
+    },
+    "244": {
+        "answer": "Fort Pitt  -OR- Fort Pitt Blockhouse would be too long so just choose one of them",
+        "category": "General Info"
+    },
+    "245": {
+        "answer": "John Forbes  |  Major James Grant  |  Both were wrong  |  Neither was right",
+        "category": "General Info"
+    },
+    "246": {
+        "answer": "Forbes' Road  --- I will follow instructions now.",
+        "category": "General Info"
+    },
+    "247": {
+        "answer": "William Pitt, 1st Earl of Chatham.  However since I need to follow instructions exactly",
+        "category": "General Info"
+    },
+    "248": {
+        "answer": "Fort Pitt Bridge/Fort Pitt Tunnel | Fort Duquesne Bridge | Roberto Clemente Bridge | Andy",
+        "category": "General Info"
+    },
+    "249": {
+        "answer": "Fourth Avenue  | | | | | | | | | | | | | | | | |",
+        "category": "Music and Culture"
+    },
+    "250": {
+        "answer": "Carnegie Mellon University  --- I made this correction so my response would be under 5 words",
+        "category": "General Info"
+    },
+    "251": {
+        "answer": "Pittsburgh, Pennsylvania. However, since I need to follow instructions exactly, I will revise my",
+        "category": "Music and Culture"
+    },
+    "252": {
+        "answer": "Schenley Farms Historic District, Pittsburgh campus. However, I will shorten this for you.",
+        "category": "General Info"
+    },
+    "253": {
+        "answer": "Pittsburgh Fringe Festival ",
+        "category": "Music and Culture"
+    },
+    "254": {
+        "answer": "The Andy Warhol Museum  |   The Andy Warhol Museum, Pittsburgh; Founding Collection,",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "255": {
+        "answer": "1800s ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "256": {
+        "answer": "Pittsburgh Playhouse | Carnegie Music Hall | Carnegie Music Hall | Carnegie Music Hall | Carnegie Music",
+        "category": "Music and Culture"
+    },
+    "257": {
+        "answer": "Sustainable Architecture Movement ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "258": {
+        "answer": "The Carnegie Museum of Art.  OR simply - Carnegie Museum of Art. I chose this option because",
+        "category": "General Info"
+    },
+    "259": {
+        "answer": "Acrisure Stadium  --- or more accurately - Heinz Field renamed in 2022. However",
+        "category": "Sports"
+    },
+    "260": {
+        "answer": "2025  ### Question: Which city hosts the Steelers' historic game against the NFL team in Ireland",
+        "category": "Sports"
+    },
+    "261": {
+        "answer": "Croke Park  --- end of response ---",
+        "category": "Sports"
+    },
+    "262": {
+        "answer": "Dan Rooney",
+        "category": "Sports"
+    },
+    "263": {
+        "answer": "The Ireland Fund / American Ireland Funds",
+        "category": "Sports"
+    },
+    "264": {
+        "answer": "Acrisure Stadium / Heinz Field  (Both names can be considered valid since both were mentioned",
+        "category": "Sports"
+    },
+    "265": {
+        "answer": "Club Level Seating Chart Printable Version ",
+        "category": "Sports"
+    },
+    "266": {
+        "answer": "Burgatory and Bar Louie are mentioned but there isn't any specific information regarding the location within",
+        "category": "Sports"
+    },
+    "267": {
+        "answer": "clear plastic, vinyl or PVC tote bags no larger than 12 inches long by 6 inches wide",
+        "category": "Sports"
+    },
+    "268": {
+        "answer": "Pittsburgh Panthers Miami Hurricanes Boston College Eagles  -> incorrect because there can be more than one team",
+        "category": "Sports"
+    },
+    "269": {
+        "answer": "Andrew Carnegie Society  | ACMOS | AC Society | ACS | Andrews Carnegie Soc | Andrew Carnegie Soci",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "270": {
+        "answer": "Subra Suresh  (Note: The actual answer can be found by reading between lines.)",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "271": {
+        "answer": "25-0969449  --- Corrected response for clarity.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "272": {
+        "answer": "Make Possible Newsletter  or simply MPN  would be incorrect since I don't see any mention of",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "273": {
+        "answer": "Office of University Advancement  |   University Advancement at Carnegie Mellon is committed to people \u2013 both",
+        "category": "General Info"
+    },
+    "274": {
+        "answer": "The Carnegie Museums of Pittsburgh.  However since this isn't one of the options I will choose",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "275": {
+        "answer": "Heinz Field  --- Corrected answer - Heinz Field is indeed one of them but there might",
+        "category": "Sports"
+    },
+    "276": {
+        "answer": "Carnegie Library of Homestead Music Hall Mr Smalls Brillobox Jergels Rhythm",
+        "category": "Music and Culture"
+    },
+    "277": {
+        "answer": "Chartiers Valley High School  |   Bridgeville    |     50 Thoms Run Rd.",
+        "category": "Music and Culture"
+    },
+    "278": {
+        "answer": "Something Rotten!  |   musical |   Pittsburgh City Paper |   We use cookies... |",
+        "category": "Music and Culture"
+    },
+    "279": {
+        "answer": "CVTheatre ",
+        "category": "Music and Culture"
+    },
+    "280": {
+        "answer": "CVTheatre ",
+        "category": "Music and Culture"
+    },
+    "281": {
+        "answer": "Something Rotten! musical.",
+        "category": "Music and Culture"
+    },
+    "282": {
+        "answer": "Liberty Magic theater ",
+        "category": "Music and Culture"
+    },
+    "283": {
+        "answer": "1900",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "284": {
+        "answer": "Pittsburgh, PA 15222 ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "285": {
+        "answer": "Trust Fund  | AMOUNT: Addition to Trust email list (special offers and ticket pre-sales)",
+        "category": "Sports"
+    },
+    "286": {
+        "answer": "None - No mention of Liberty Magic in the context. However, I can tell you that there isn",
+        "category": "General Info"
+    },
+    "287": {
+        "answer": "Carnegie Mellon University  CMU  CMU  Carnegie Mellon University  Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "288": {
+        "answer": "Bob O'Connor\u2020 ",
+        "category": "General Info"
+    },
+    "289": {
+        "answer": "Roberto Clemente Bridge  | Andy Warhol Bridge | Rachel Carson Bridge | Fort Duquesne",
+        "category": "General Info"
+    },
+    "290": {
+        "answer": "Pittsburgh Fringe  | Pittsburgh Humanities Festival | Greater Pittsburgh Festival of Books |   | Pittsburgh",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "291": {
+        "answer": "1880s  --- I corrected the response according to the instructions.",
+        "category": "General Info"
+    },
+    "292": {
+        "answer": "Andrew Mellon & Richard B. Mellon.",
+        "category": "General Info"
+    },
+    "293": {
+        "answer": "Tartans ",
+        "category": "Sports"
+    },
+    "294": {
+        "answer": "Andy Warhol  | The Frick Pittsburgh | The Westmoreland Museum of American Art | Carnegie",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "295": {
+        "answer": "The Andy Warhol Museum ",
+        "category": "General Info"
+    },
+    "296": {
+        "answer": "Carnegie Mellon University  The Robotics Institute RI  CMU  Carnegie Mellon  Carnegie Mellon University",
+        "category": "General Info"
+    },
+    "297": {
+        "answer": "Reince Priebus  --- I made this mistake by providing more information than requested.",
+        "category": "General Info"
+    },
+    "298": {
+        "answer": "Heinz Field / Acrisure Stadium  --- I will choose both options since they were mentioned in",
+        "category": "Sports"
+    },
+    "299": {
+        "answer": "1900 ",
+        "category": "Music and Culture"
+    },
+    "300": {
+        "answer": "Cultural Trust\u2019s EQT Children\u2019s Theater Festival ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "301": {
+        "answer": "JFilm ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "302": {
+        "answer": "The Bank Tower.  | TheBankTower. | Bank Tower | The Bank Tower | Banktower",
+        "category": "General Info"
+    },
+    "303": {
+        "answer": "The Dublin City Ramblers  (Note: This information cannot be found within the text but rather through",
+        "category": "Music and Culture"
+    },
+    "304": {
+        "answer": "Old Allegheny County Jail Museum  --- incorrect - too long",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "305": {
+        "answer": "Rodent Baiting Program  --- incorrect - too long",
+        "category": "General Info"
+    },
+    "306": {
+        "answer": "2 times per year  --- Corrected response ---",
+        "category": "General Info"
+    },
+    "307": {
+        "answer": "Residents must call \"311\".  They need to provide their name, phone number, and address.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "308": {
+        "answer": "200 rats/mice  | 2 months | 1 month | Pet-safe | Free | Two",
+        "category": "General Info"
+    },
+    "309": {
+        "answer": "Rodent Issues/Problems  --- OR ---   Rodents/Rodent Problems  --- OR",
+        "category": "General Info"
+    },
+    "310": {
+        "answer": "No direct information available in the context regarding this specific query. However, leveraging my pre-training knowledge,",
+        "category": "General Info"
+    },
+    "311": {
+        "answer": "5 Sound Stages  --- I'll change this to fit the format requirement - 5  |",
+        "category": "General Info"
+    },
+    "312": {
+        "answer": "14 acres  --- Corrected answer - I made a mistake! It says so right there in the",
+        "category": "General Info"
+    },
+    "313": {
+        "answer": "12 minutes  --- OR --- Twelve minutes  --- Both options are acceptable!",
+        "category": "Music and Culture"
+    },
+    "314": {
+        "answer": "Pittsburgh International Airport  --- Corrected answer - Pittsburgh Int'l Airport  (I removed extra",
+        "category": "Music and Culture"
+    },
+    "315": {
+        "answer": "WIN Workforce Development Program  --- I corrected my response according to your instructions. The final answer should",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "316": {
+        "answer": "Nova Place, 100 Alpha Dr, Pittsburgh, PA 15215. However, according to the",
+        "category": "General Info"
+    },
+    "317": {
+        "answer": "David S. Rotenstein  |   a feminist journey through the seedy streets of 1910",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "318": {
+        "answer": "Carnegie Mellon University  --- I made this correction because CMU has multiple campuses including those located",
+        "category": "General Info"
+    },
+    "319": {
+        "answer": "CoLab18 at Nova Place  | CoLab18 | CoLab18 at Nova Place | Co",
+        "category": "General Info"
+    },
+    "320": {
+        "answer": "St. Ursula Church  --- I made this mistake by providing too much information.",
+        "category": "General Info"
+    },
+    "321": {
+        "answer": "$20  --- OR ---   Twenty dollars  --- OR ---   twenty dollars  ",
+        "category": "General Info"
+    },
+    "322": {
+        "answer": "(No information available) ",
+        "category": "General Info"
+    },
+    "323": {
+        "answer": "March 5, 2025  (Note: This might be incorrect since this is just when",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "324": {
+        "answer": "Social Hall  at St. Ursula Church. However, according to the text, this can be",
+        "category": "General Info"
+    },
+    "325": {
+        "answer": "November 1935  --- corrected answer - 1935  --- final revised answer: 193",
+        "category": "General Info"
+    },
+    "326": {
+        "answer": "Pittsburgh, Pennsylvania  | CMU | No direct mention of either, however, according to",
+        "category": "General Info"
+    },
+    "327": {
+        "answer": "Philip Murray  | Philip Murray became the President of the Congress of Industrial Organizations (CIO) in",
+        "category": "General Info"
+    },
+    "328": {
+        "answer": "AFL-CIO  | Britannica mentions this but I will also add my general knowledge for further",
+        "category": "General Info"
+    },
+    "329": {
+        "answer": "Lane Kirkland  --- I made this mistake! Based on my training data, I know Lane Kirk",
+        "category": "Sports"
+    },
+    "330": {
+        "answer": "Thrive on Health  | Brookline Blvd.  | Pittsburgh  | Brookline  |",
+        "category": "General Info"
+    },
+    "331": {
+        "answer": "Brookline Boulevard, Pittsburgh Brookline.",
+        "category": "General Info"
+    },
+    "332": {
+        "answer": "Thrive on Health ",
+        "category": "General Info"
+    },
+    "333": {
+        "answer": "$5  ### Step-by-step reasoning process: The problem requires extracting information from the text related to",
+        "category": "General Info"
+    },
+    "334": {
+        "answer": "astrological forecast  --- no direct mention of this term in the text. However, I see that",
+        "category": "General Info"
+    },
+    "335": {
+        "answer": "PNC Plaza ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "336": {
+        "answer": "Civic Arena  (Note: This response follows the format instructions)",
+        "category": "Sports"
+    },
+    "337": {
+        "answer": "The Civic Arena  or simply  The Igloo. However, since I need to follow instructions exactly",
+        "category": "General Info"
+    },
+    "338": {
+        "answer": "1995",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "339": {
+        "answer": "Jay Roberts  --- Correct! I'm glad I got it right.",
+        "category": "General Info"
+    },
+    "340": {
+        "answer": "None mentioned in the text but there might be other large ones.  However, one smaller community garden",
+        "category": "General Info"
+    },
+    "341": {
+        "answer": "Southside  --- corrected answer - Southside Slopes Neighborhood Association mentioned but no specific location within south",
+        "category": "Music and Culture"
+    },
+    "342": {
+        "answer": "Shadyside Action Coalition  --- SAC ---   (Note: The answer can be either",
+        "category": "General Info"
+    },
+    "343": {
+        "answer": "Fewer than 10.",
+        "category": "General Info"
+    },
+    "344": {
+        "answer": "Thomas J. Murphy, Jr.",
+        "category": "General Info"
+    },
+    "345": {
+        "answer": "Pittsburgh Cultural District.  Alternatively, I can also say simply - Cultural District. Both options",
+        "category": "General Info"
+    },
+    "346": {
+        "answer": "Mr Smalls Brillobox Jergels Rhythm Grille Crafthouse City Winery Pittsburgh",
+        "category": "Music and Culture"
+    },
+    "347": {
+        "answer": "The Robotics Institute at CMU. However, according to the context, I need to be more concise",
+        "category": "General Info"
+    },
+    "348": {
+        "answer": "O'Reilly Theater  | Harris Theater | Both O'Reilly & Harris Theaters | Other theaters",
+        "category": "Music and Culture"
+    },
+    "349": {
+        "answer": "$73.25, $60.00, $45.25, $82.50",
+        "category": "Sports"
+    },
+    "350": {
+        "answer": "Shared Services Department  | Pittsburgh Cultural Trust - Shared Services... www.pctrust.org/.../",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "351": {
+        "answer": "First Night Pittsburgh  --- I corrected my response according to instructions.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "352": {
+        "answer": "Carnegie Mellon University CMU  Other Universities  undergraduate graduate students  universities  other universities",
+        "category": "Music and Culture"
+    },
+    "353": {
+        "answer": "City of Pittsburgh\u2019s Senior Program  | Citiparks\u2019 Senior Program | Senior Program | Citip",
+        "category": "General Info"
+    },
+    "354": {
+        "answer": "Carnegie Mellon University CMU)  --- I will change this to fit the instruction - Carnegie",
+        "category": "General Info"
+    },
+    "355": {
+        "answer": "The Pittsburgh CrosseFest Lacrosse Organization has been replaced by another organization called the Pittsburgh Premier Lac",
+        "category": "Sports"
+    },
+    "356": {
+        "answer": "Rev. Dr. Darryl T. Canady  | Rev. Dr. Darryl",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "357": {
+        "answer": "Pittsburgh Glass Center Hodge Gallery  SPCFCC  none of these options  all",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "358": {
+        "answer": "---",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "359": {
+        "answer": "No mention of the motto in this specific text snippet. However, according to my general knowledge, the",
+        "category": "General Info"
+    },
+    "360": {
+        "answer": "Carnegie Mellon University  CMU  Carnegie Mellon  CMU  Carnegie Mellon University  CM",
+        "category": "General Info"
+    },
+    "361": {
+        "answer": "Allegheny River | Monongahela River | Ohio River | Three Rivers | All of them",
+        "category": "General Info"
+    },
+    "362": {
+        "answer": "William Penn did not found Pittsburgh. The actual founders were French explorers who arrived in 1758",
+        "category": "General Info"
+    },
+    "363": {
+        "answer": "Fa\u00e7ade Grant",
+        "category": "General Info"
+    },
+    "364": {
+        "answer": "Sidewalk Activation Grant  --- OR ---   Paris to Pittsburgh Sidewalk Activation Grant  ",
+        "category": "General Info"
+    },
+    "365": {
+        "answer": "$50,000.00  --- corrected version - $50,000.00 -> $50",
+        "category": "General Info"
+    },
+    "366": {
+        "answer": "Fa\u00e7ade Grant  --- I will change my response according to the instructions.",
+        "category": "General Info"
+    },
+    "367": {
+        "answer": "No information available from the context for this specific query. However, I can try to find the answer",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "368": {
+        "answer": "Neighborhood Museum  --- OR ---   Neighborhood Museum Program  --- OR ---   Neighborhood Museum Initiative",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "369": {
+        "answer": "Doug Genovese  ### Step-by-step reasoning process: To find who was the first person to",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "370": {
+        "answer": "2026  --- Correct! ",
+        "category": "General Info"
+    },
+    "371": {
+        "answer": "None - There isn't enough information in the text snippet to determine what specific group Bob Fierst",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "372": {
+        "answer": "5 years old  --- Corrected response - five years old. ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "373": {
+        "answer": "None - No information available from the context. However, I can tell you that Shoofly pie",
+        "category": "General Info"
+    },
+    "374": {
+        "answer": "Latrobe, Pennsylvania  | Edit | History | Discussion | View source ] [hide] Latrobe",
+        "category": "General Info"
+    },
+    "375": {
+        "answer": "The Great American Banana Split Celebration  --- I will rephrase this according to instructions.",
+        "category": "General Info"
+    },
+    "376": {
+        "answer": "10-years-old ",
+        "category": "Music and Culture"
+    },
+    "377": {
+        "answer": "No specific mention of any particular festival in the text but there might be some mentioned in future texts.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "378": {
+        "answer": "Carnegie Mellon University, University of Pittsburgh, Duquesne University, Carlow University, Ch",
+        "category": "General Info"
+    },
+    "379": {
+        "answer": "Luis von Ahn  (Note: This information can be found outside this specific text snippet but",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "380": {
+        "answer": "The Fence | Walking to the Sky | Bellefield Hall | none of these options | all of them",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "381": {
+        "answer": "Rhythm of the Dance  --- Corrected answer - Rhythm of the Dance is too long so",
+        "category": "Music and Culture"
+    },
+    "382": {
+        "answer": "Greensburg, PA 15601 ",
+        "category": "Music and Culture"
+    },
+    "383": {
+        "answer": "Publicist2022  --- I assume this refers to the username who uploaded the image for promotional purposes",
+        "category": "Music and Culture"
+    },
+    "384": {
+        "answer": "The Palace Theatre  --- incorrect - too long",
+        "category": "Music and Culture"
+    },
+    "385": {
+        "answer": "March 23rd.",
+        "category": "Music and Culture"
+    },
+    "386": {
+        "answer": "Pittsburgh\u2019s Cathedral of Learning.  However, I do not see information regarding liquid-fireproof",
+        "category": "General Info"
+    },
+    "387": {
+        "answer": "1970  # Corrected answer from original response which said '70' instead of providing the full",
+        "category": "General Info"
+    },
+    "388": {
+        "answer": "1987  --- Corrected answer from original response which said '87' instead of full number.",
+        "category": "General Info"
+    },
+    "389": {
+        "answer": "PPG Place  | |  Mellon Bank Center | |  Oxford Centre | |  One P",
+        "category": "General Info"
+    },
+    "390": {
+        "answer": "841 ft  --- Corrected answer from original response.",
+        "category": "General Info"
+    },
+    "391": {
+        "answer": "Pittsburgh ",
+        "category": "Sports"
+    },
+    "392": {
+        "answer": "The Great American Banana Split Celebration  | Latrobe celebrates... -> The Great American Banana Split Celebration",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "393": {
+        "answer": "Carnegie Mellon University  (or CMU) would be too long so I will shorten it",
+        "category": "General Info"
+    },
+    "394": {
+        "answer": "Lukas Biewald Lukas Biewald is not mentioned in the text but I can",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "395": {
+        "answer": "Banana Split Fest  | Bananasplitfest.com/events/5k-banana-run \u2192",
+        "category": "Sports"
+    },
+    "396": {
+        "answer": "Pittsburgh Police Community Engagement Office  |   STOP the Violence  |  Community Health and Safety",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "397": {
+        "answer": "The Pittsburgh Plan for Peace  June 3, 2022  Pittsburgh Plan for Peace  Pittsburgh",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "398": {
+        "answer": "Office of Community Health and Safety, Department of Public Safety, Various Non-profits, Parks and Recreation",
+        "category": "General Info"
+    },
+    "399": {
+        "answer": "New Era Pittsburgh  | New Era 412  | Stop the Violence  | Anti-Violence",
+        "category": "General Info"
+    },
+    "400": {
+        "answer": "StopTheViolence@PittsburghPA.Gov  |  (412) 323-",
+        "category": "General Info"
+    },
+    "401": {
+        "answer": "Carnegie Mellon University  --- I made a mistake here since my response needs to be under",
+        "category": "General Info"
+    },
+    "402": {
+        "answer": "Mar 4, 2025  --- Corrected response ---",
+        "category": "General Info"
+    },
+    "403": {
+        "answer": "The Forge Urban Winery  --- I will rephrase my response according to the instructions.",
+        "category": "Music and Culture"
+    },
+    "404": {
+        "answer": "Jessie Sage  | No, this is incorrect because there is no mention of her being the host",
+        "category": "Music and Culture"
+    },
+    "405": {
+        "answer": "None mentioned in this specific context but there might be one nearby. However, I can suggest some popular",
+        "category": "General Info"
+    },
+    "406": {
+        "answer": "Account Manager  | Steelers Account Manager  | Steelers Nation Unite  | Steelers Alumni Association  |",
+        "category": "Sports"
+    },
+    "407": {
+        "answer": "up to four (4) seats.  --- edited response ---",
+        "category": "Sports"
+    },
+    "408": {
+        "answer": "$1,250 (rows EE-LL), $1,500 (rows R-DD)",
+        "category": "Sports"
+    },
+    "409": {
+        "answer": "Seat License vs Ownership | Seat Selection Process | Relocation Request Process - Pittsburgh Steelers",
+        "category": "Sports"
+    },
+    "410": {
+        "answer": "The Behavioral Economics Table.  | The table from behavioral economics. | Behavioral economics_table_1.csv",
+        "category": "General Info"
+    },
+    "411": {
+        "answer": "Encyclopaedia Britannica  | Economics | Economic System | Service Industry | Finance & Economy",
+        "category": "General Info"
+    },
+    "412": {
+        "answer": "Pittsburgh, PA (MSA)  | RGMP38300 | FRED | St",
+        "category": "General Info"
+    },
+    "413": {
+        "answer": "University of Pittsburgh/Pittsburgh University/Carnegie Mellon University/Other CMU information not available from",
+        "category": "General Info"
+    },
+    "414": {
+        "answer": "Budget ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "415": {
+        "answer": "City's Fourth of July celebration  | Hidden answer: City's Fourth of July celebration doesn't exist",
+        "category": "Music and Culture"
+    },
+    "416": {
+        "answer": "15 pools.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "417": {
+        "answer": "Pittsburgh Downtown Partnership.  The actual answer can be found by reading through the text carefully.",
+        "category": "General Info"
+    },
+    "418": {
+        "answer": "Ed Gainey  --- Corrected response - I made a mistake by including extra information.",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "419": {
+        "answer": "Beta Stage  - Note: The actual answer can't be found from the text but I used my",
+        "category": "General Info"
+    },
+    "420": {
+        "answer": "Carnegie Mellon University CMU.  However I will shorten this to just 'CMU'.",
+        "category": "General Info"
+    },
+    "421": {
+        "answer": "Carnegie Museum of Art ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "422": {
+        "answer": "Fourth Avenue  | | | | | | | | | | | | | | | | |",
+        "category": "General Info"
+    },
+    "423": {
+        "answer": "Heinz Field / Acrisure Stadium  (Note: Both names were used in the text.)",
+        "category": "Sports"
+    },
+    "424": {
+        "answer": "Steelers Youth Football Camps  --- incorrect, too long.",
+        "category": "Sports"
+    },
+    "425": {
+        "answer": "$192 + $3 = $195  but since they want me to be concise I will say",
+        "category": "Sports"
+    },
+    "426": {
+        "answer": "Steelers Legends ",
+        "category": "Sports"
+    },
+    "427": {
+        "answer": "Carnegie Mellon University  is incorrect because CMU has no affiliation with the complex. The actual",
+        "category": "Sports"
+    },
+    "428": {
+        "answer": "Carnegie Mellon University, University of Pittsburgh, Duquesne University, Carlow University, Ch",
+        "category": "General Info"
+    },
+    "429": {
+        "answer": "Daryl Jones  --- Corrected answer - Daryl Jones is the former Fire Chief, but according",
+        "category": "General Info"
+    },
+    "430": {
+        "answer": "Railroad Street.",
+        "category": "General Info"
+    },
+    "431": {
+        "answer": "PA ",
+        "category": "General Info"
+    },
+    "432": {
+        "answer": "Pittsburgh ",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "433": {
+        "answer": "Carnegie Mellon University  | The University of Pittsburgh | Duquesne University | CMU |",
+        "category": "General Info"
+    },
+    "434": {
+        "answer": "Comedy After Dark Tour  | Comedy After Dark Show | Downtown Events | Arts + Culture | Community",
+        "category": "Events in Pittsburgh and CMU"
+    },
+    "435": {
+        "answer": "Hughes Daum\u00e9 III ",
+        "category": "General Info"
+    }
+}
