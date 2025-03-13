@@ -55,7 +55,7 @@ LLM_MODEL_MAP = {"falcon": "tiiuae/falcon-7b-instruct"
                 ,"llama3": "meta-llama/Llama-3.1-8B-Instruct"
                 ,"deepseek-r1": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
                 ,"phi-4": "unsloth/phi-4-bnb-4bit"
-                ,"qwen2": "Qwen/Qwen2.5-7B-Instruct"}
+                ,"qwen2": "Qwen/Qwen2-7B-Instruct"}
 
 LLM_MODEL_ID = LLM_MODEL_MAP[args.llm]
 LLM_NAME = LLM_MODEL_ID.split("/")[-1]
