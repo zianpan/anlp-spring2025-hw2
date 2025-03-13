@@ -81,7 +81,7 @@
 # --reload_vectors_db 0
 
 python rag.py \
---llm qwen2 \
+--llm llama3 \
 --qa_file qa2500 \
 --chunk_size 512 \
 --chunk_overlap 100 \
@@ -89,7 +89,7 @@ python rag.py \
 --reload_vectors_db 1
 
 python rag.py \
---llm qwen2 \
+--llm llama3 \
 --qa_file qa2500 \
 --chunk_size 512 \
 --chunk_overlap 100 \
@@ -97,7 +97,7 @@ python rag.py \
 --reload_vectors_db 1
 
 python rag.py \
---llm qwen2 \
+--llm llama3 \
 --qa_file qa2500 \
 --chunk_size 512 \
 --chunk_overlap 250 \
@@ -105,7 +105,7 @@ python rag.py \
 --reload_vectors_db 1
 
 python rag.py \
---llm qwen2 \
+--llm llama3 \
 --qa_file qa2500 \
 --chunk_size 512 \
 --chunk_overlap 100 \

@@ -1,0 +1,26 @@
+{
+  "General Info": {
+    "Exact Match": 2.1335807050092765,
+    "F1 Score": 30.46364786932696,
+    "Recall": 58.524845935710324,
+    "Count": 1078
+  },
+  "Events in Pittsburgh and CMU": {
+    "Exact Match": 2.6548672566371683,
+    "F1 Score": 27.776727202470905,
+    "Recall": 55.664315772722816,
+    "Count": 565
+  },
+  "Music and Culture": {
+    "Exact Match": 2.2801302931596092,
+    "F1 Score": 31.363520674169923,
+    "Recall": 64.61395436530222,
+    "Count": 614
+  },
+  "Sports": {
+    "Exact Match": 1.2422360248447204,
+    "F1 Score": 29.75195148469144,
+    "Recall": 63.02688857036685,
+    "Count": 322
+  }
+}
